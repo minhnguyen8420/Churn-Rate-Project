@@ -1,0 +1,444 @@
+---
+title: "Xem xét các yếu tố ảnh hưởng đến tỉ lệ churn"
+author: "Nguyen Tuan Anh ft. Nguyen Ngoc Minh"
+output: 
+  html_document: 
+    code_folding: hide
+    highlight: haddock
+    number_sections: yes
+    theme: flatly
+    toc: yes
+    toc_float: yes
+    df_print: paged
+---
+
+# Vấn đề
+Một công ty A về dịch vụ viễn thông quan tâm đến các yếu tố ảnh hưởng đến việc khách hàng sử dụng/ngừng sử dụng dịch vụ của họ.
+
+Một số câu hỏi đặt ra: 
+
+1. Những người đăng ký premium plan có ngừng sử dụng dịch vụ không?
+2. Những người ký hợp đồng dài hạn có ngừng sử dụng dịch vụ không?
+3. Vấn đề gặp phải trong lúc sử dụng dịch vụ có khiến khách hàng ngừng sử dụng dịch vụ không?
+4. Số tiền chi trả mỗi tháng quá cao có khiến khách hàng ngừng sử dụng dịch vụ không?
+5. Đâu là nhóm khách hàng tiềm năng?
+
+# Chuẩn bị
+
+## Thư viện
+
+```{r}
+library("ggplot2")
+library("dplyr")
+library("reshape2")
+```
+
+## Dữ liệu
+Dữ liệu gồm thông tin của các khách hàng sử dụng dịch vụ viễn thông của công ty A.
+
+### Các dữ liệu được thu thập
+1. `id`: Mã khách hàng
+2. `gender`: Giới tính 
+3. `age`: Nhóm tuổi
+4. `dependents`: Số người phụ thuộc (VD: người thân trong gia đình)
+5. `lifetime`: Thời gian sử dụng dịch vụ (tính theo ngày)
+6. `phone_services`: Dịch vụ điện thoại
+7. `internet_services`: Dịch vụ internet
+8. `online_streaming`: Dịch vụ online streaming
+9. `multiple_connections`: Số thiết bị cùng kết nối
+10. `premium_plan`: Gói premium
+11. `online_protect`: Dịch vụ bảo vệ qua mạng
+12. `contract_plan`: Loại hợp đồng sử dụng dịch vụ
+13. `ebill_services`: Dịch vụ hóa đơn điện tử
+14. `default_payment`: Hình thức thannh toán
+15. `monthly_charges`: Chi phí hàng tháng
+16. `issues`: Số vấn đề gặp phải trong quá trình sử dụng dịch vụ
+17. `exit_status`: Đã ngừng sử dụng dịch vụ chưa
+
+### Xử lý dữ liệu
+
+```{r}
+raw_data <- read.csv("data/train.csv", header = TRUE)
+head(raw_data)
+```
+
+Nhận thấy rằng trong dữ liệu có các giá trị trống. Trước khi xử lý, ta cùng xem qua số lượng và phân bố của những giá trị trống như này.
+
+```{r}
+summary(raw_data)
+```
+
+Có 5 biến có giá trị trống gồm `internet_services`, `online_streaming`, `multiple_connections`, `premium_plan`, `online_protect`. Số lượng giá trị trống là rất nhiều (trong khoảng 200 đến 500) nên không thể chọn cách remove mà sẽ gán nó với giá trị `N/A` và xem nó như một giá trị để phân tích.
+
+```{r}
+raw_data <- read.csv("data/train.csv", header = TRUE, na.strings = "")
+ggplot(raw_data) +
+  aes(internet_services) +
+  geom_bar(stat="count", fill="#FF6666") +
+  labs(
+    x="Internet Services",
+    y=" "
+  )
+```
+
+```{r}
+ggplot(raw_data) +
+  aes(online_streaming) +
+  geom_bar(stat="count", fill="#2a4b80") +
+  labs(
+    x="Online Streaming",
+    y=" "
+  )
+```
+
+```{r}
+ggplot(raw_data) +
+  aes(premium_plan) +
+  geom_bar(stat="count", fill="#ff8030") +
+  labs(
+    x="Premium Plan",
+    y=" "
+  )
+```
+
+```{r}
+ggplot(raw_data) +
+  aes(multiple_connections) +
+  geom_bar(stat="count", fill="#d9c429") +
+  labs(
+    x="Multiple Connections",
+    y=" "
+  )
+```
+
+```{r}
+ggplot(raw_data) +
+  aes(online_protect) +
+  geom_bar(stat="count", fill="#e730ff") +
+  labs(
+    x="Online Protect",
+    y=" "
+  )
+```
+
+## Quan sát tổng thể dữ liệu
+
+Trước tiên, ta quan sát các biến có kiểu dữ liệu số, bao gồm `lifetime`, `monthly_charges` và `isssues`.
+
+```{r}
+raw_data %>% 
+  select(lifetime, monthly_charges, issues) %>% 
+  boxplot(col="red")
+```
+
+Tiếp theo ta sẽ tiến hành xử lý các dữ liệu ngoại lai trên.
+
+```{r}
+upper_bound <- function(col){
+  q1 <- quantile(col, 0.25)
+  q3 <- quantile(col, 0.75)
+  iqr <- q3 - q1
+  upper <- q3 + 1.5*iqr
+  return(upper)
+}
+
+upper_lifetime <- upper_bound(raw_data$lifetime)
+upper_monthly_charges <- upper_bound(raw_data$monthly_charges)
+upper_issues <- upper_bound(raw_data$issues)
+max_value <- max(upper_lifetime, upper_monthly_charges, upper_issues)
+data <- raw_data %>% 
+  filter(lifetime < max_value, monthly_charges < max_value, issues < max_value)
+data %>% 
+  select(lifetime, monthly_charges, issues) %>% 
+  boxplot(col="red")
+```
+
+Vậy là ta đã tạo được 1 dataframe `data` tạm sạch để tiếp tục phân tích.
+
+# Phân tích
+
+## Hợp đồng dịch vụ và nhóm tuổi
+
+```{r}
+data_contract_age <- data %>% 
+                  select(c("contract_plan", "age"))
+data_contract_age["value"] <- 1
+
+contract_age <- data_contract_age %>% 
+  dcast(age ~ contract_plan, value.var = "value", sum)
+
+contract_age %>% 
+  select(-1) %>% 
+  as.matrix() %>% 
+  chisq.test()
+
+contract_age %>% 
+  slice(1:4) %>% 
+  melt(id.vars = "age") %>% 
+  group_by(age) %>% 
+  mutate(total_by_status = sum(value)) %>% 
+  ungroup %>% 
+  group_by(variable) %>% 
+  mutate(total_contract_plan = sum(value)) %>% 
+  ungroup %>% 
+  rename(plan = variable) %>% 
+  mutate(expected = total_by_status*total_contract_plan/sum(value)) %>% 
+  mutate(lift = value/expected) %>% 
+  ggplot(aes(age, plan)) +
+  geom_tile(aes(fill = lift), color = "white") +
+  geom_text(aes(label = round(lift,2))) +
+  scale_fill_viridis_c() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(
+    x="Age",
+    y="Contract Plan"
+  )
+```
+
+Nhóm tuổi `18-30`, `45-60` và `>60` thường sử dụng hợp đồng `Month-to-month` trong khi nhóm tuổi `30-45` lại ưa chuộng hợp đồng dài hạn (`One year` và `Two year`).
+
+## Hợp đồng dịch vụ và tỉ lệ churn
+
+```{r}
+data_contract <- data %>% 
+                  select(c("contract_plan", "exit_status"))
+data_contract["value"] <- 1
+
+contract <- data_contract %>% 
+  dcast(exit_status ~ contract_plan, value.var = "value", sum)
+
+contract %>% 
+  select(-1) %>% 
+  as.matrix() %>% 
+  chisq.test()
+
+contract %>% 
+  slice(1:3) %>% 
+  melt(id.vars = "exit_status") %>% 
+  group_by(exit_status) %>% 
+  mutate(total_by_status = sum(value)) %>% 
+  ungroup %>% 
+  group_by(variable) %>% 
+  mutate(total_contract_plan = sum(value)) %>% 
+  ungroup %>% 
+  rename(plan = variable) %>% 
+  mutate(expected = total_by_status*total_contract_plan/sum(value)) %>% 
+  mutate(lift = value/expected) %>% 
+  ggplot(aes(exit_status, plan)) +
+  geom_tile(aes(fill = lift), color = "white") +
+  geom_text(aes(label = round(lift,2))) +
+  scale_fill_viridis_c() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(
+    x="Exit Status",
+    y="Contract Plan"
+  )
+```
+
+Những khách hàng đăng ký hợp đồng dài hạn (`Two-year`) sẽ ít có nguy cơ ngừng sử dụng dịch vụ của công ty hơn khách hàng đăng ký dịch vụ theo tháng `Month-to-month`. 
+
+```{r}
+ggplot(raw_data) +
+  aes(contract_plan) +
+  geom_bar(stat="count", fill="#e730ff") +
+  labs(
+    x="Contract Plan",
+    y=" "
+  )
+```
+
+Tuy nhiên, như ta đã thấy ở trên thì số người đăng ký dịch vụ theo tháng `Month-to-month` là rất lớn, nên ta cần nghiên cứu tiếp tục xem làm sao để giữ chân những khách hàng đăng ký dịch vụ theo tháng này.
+
+**Vấn đề**:
+
+- Mục tiêu: cải thiện tỉ lệ churn đối với nhóm khách hàng đăng ký hợp đồng `Month-to-month`
+- Cách thức:
+
+  1. Đề xuất mức `monthly_charges` phù hợp với khách hàng đăng ký hợp đồng `month-to-month`
+      - Nhận thấy, để đề xuất mức `monthly_charges` phù hợp cần xem xét lượng `issues` gặp phải cũng như số dịch vụ họ sử dụng
+      - Đối với issues: xem xét `issues per day` vì issues ở đây là tổng issues trong suốt quá trình sử dụng (lifetime)
+      - Đối với số lượng dịch vụ: tạo thêm một cột tính số dịch vụ họ sử dụng (`phone_services`, `internet_services`, `online_streaming`, `multiple_connections`, `premium_plan`, `online_protect` và `ebill_services`)
+      - Vấn đề: các cột trên có quá nhiều giá trị `N/A`
+
+  2. Nghiên cứu các yếu tố khác(`premium_plan`, `dependents`, v.v)
+
+### Đề xuất mức `monthly_charges`
+
+```{r}
+mtm <- data %>% 
+        filter(contract_plan=="Month-to-month")
+mtm %>% 
+  ggplot() +
+  aes(exit_status, monthly_charges) +
+  geom_boxplot(aes(fill=exit_status)) +
+  theme_bw() + 
+  theme(
+    legend.position = "none"
+  ) + 
+  labs(
+    x="Exit Status",
+    y="Monthly Charges"
+  )
+```
+
+```{r}
+mtm["issues_per_day"] = mtm$issues/mtm$lifetime
+mode3 <- aov(issues_per_day ~ exit_status, data = mtm)
+summary(mode3)
+TukeyHSD(mode3)
+```
+
+```{r}
+mtm %>% 
+  ggplot() +
+  aes(exit_status, issues_per_day) +
+  geom_boxplot(aes(fill=exit_status)) +
+  theme_bw() + 
+  theme(
+    legend.position = "none"
+  ) + 
+  labs(
+    x="Exit Status",
+    y="Issues per Day"
+  )
+```
+
+Những khách hàng đăng ký hợp đồng theo tháng sẽ dễ dàng rời bỏ dịch vụ của công ty khi số lượng vấn đề gặp phải thì nhiều mà số tiền họ phải bỏ ra 1 tháng là quá lớn. Cụ thể:
+
+```{r}
+mtm %>% 
+  group_by(exit_status) %>% 
+  summarise(
+    avg_monthly_charges = mean(monthly_charges),
+    avg_issues_per_day = mean(issues_per_day)
+  )
+```
+
+### Nghiên cứu các yếu tố khác tác động đến nhóm khách hàng đăng ký `Month-to-month`
+
+#### Premium plan của nhóm hợp đồng `Month-to-month`
+
+```{r}
+mtm1 <- mtm %>% select(c("exit_status","premium_plan"))
+mtm1['value'] <- 1
+
+mtm_premium_plan <- mtm1 %>% 
+  dcast(exit_status ~ premium_plan, value.var = "value", sum)
+
+mtm_premium_plan %>% 
+  select(-1) %>% 
+  as.matrix() %>% 
+  chisq.test()
+
+mtm_premium_plan %>% 
+  melt(id.vars = "exit_status") %>% 
+  group_by(exit_status) %>% 
+  mutate(total_by_status = sum(value)) %>% 
+  ungroup %>% 
+  group_by(variable) %>% 
+  mutate(total_premium_plan = sum(value)) %>% 
+  ungroup %>% 
+  rename(premium_plan = variable) %>% 
+  mutate(expected = total_by_status*total_premium_plan/sum(value)) %>% 
+  mutate(lift = value/expected) %>% 
+  ggplot(aes(exit_status, premium_plan)) +
+  geom_tile(aes(fill = lift), color = "white") +
+  geom_text(aes(label = round(lift,2))) +
+  scale_fill_viridis_c() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(
+    x="Exit Status",
+    y="Premium Plan"
+  )
+```
+
+Nhận thấy rằng, những khách hàng có sử dụng `Premium Plan` thì ít có nguy cơ rời dịch vụ hơn khách hàng không sử dụng. Vậy để giữ chân khách hàng ký hợp đồng `Month-to-month`, công ty có thể offer gói `Premium Plan` cho họ với giá ưu đãi.
+
+#### Nghiên cứu nhóm khách hàng đăng ký hợp đồng `Month-to-month`
+
+```{r}
+mtm1 <- mtm %>% select(c("exit_status","age"))
+mtm1['value'] <- 1
+
+mtm_age <- mtm1 %>% 
+  dcast(exit_status ~ age, value.var = "value", sum)
+
+mtm_age %>% 
+  select(-1) %>% 
+  as.matrix() %>% 
+  chisq.test()
+
+mtm_age %>% 
+  melt(id.vars = "exit_status") %>% 
+  group_by(exit_status) %>% 
+  mutate(total_by_status = sum(value)) %>% 
+  ungroup %>% 
+  group_by(variable) %>% 
+  mutate(total_age = sum(value)) %>% 
+  ungroup %>% 
+  rename(age = variable) %>% 
+  mutate(expected = total_by_status*total_age/sum(value)) %>% 
+  mutate(lift = value/expected) %>% 
+  ggplot(aes(exit_status, age)) +
+  geom_tile(aes(fill = lift), color = "white") +
+  geom_text(aes(label = round(lift,2))) +
+  scale_fill_viridis_c() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(
+    x="Exit Status",
+    y="Age"
+  )
+```
+
+Nhóm khách hàng trong độ tuổi từ `30-45` sẽ là nhóm trung thành với dịch vụ hơn.
+
+```{r}
+mtm1 <- mtm %>% select(c("exit_status","dependents"))
+mtm1['value'] <- 1
+
+mtm_dependents <- mtm1 %>% 
+  dcast(exit_status ~ dependents, value.var = "value", sum)
+
+mtm_dependents %>% 
+  select(-1) %>% 
+  as.matrix() %>% 
+  chisq.test()
+
+mtm_dependents %>% 
+  slice(1:3) %>% 
+  melt(id.vars = "exit_status") %>% 
+  group_by(exit_status) %>% 
+  mutate(total_by_status = sum(value)) %>% 
+  ungroup %>% 
+  group_by(variable) %>% 
+  mutate(total_dependents = sum(value)) %>% 
+  ungroup %>% 
+  rename(dependents = variable) %>% 
+  mutate(expected = total_by_status*total_dependents/sum(value)) %>% 
+  mutate(lift = value/expected) %>% 
+  ggplot(aes(exit_status, dependents)) +
+  geom_tile(aes(fill = lift), color = "white") +
+  geom_text(aes(label = round(lift,2))) +
+  scale_fill_viridis_c() +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(
+    x="Exit Status",
+    y="Dependents"
+  )
+```
+
+Nhóm khách hàng có người phụ thuộc có tỉ lệ churn thấp vì việc hủy dịch vụ còn phụ thuộc vào những thành viên còn lại. Nhóm khách hàng này có thể là hộ gia đình, nhà trọ, v.v.
+
+# Kết luận
+
+1. Với hợp đồng dài hạn (`One year` và `Two year`), đội Sales nên tập trung vào khách hàng trong độ tuổi `30-45`. Với hợp đồng ngắn hạn (`Month-to-month`), nên tập trung vào các nhóm khách hạng còn lại.
+2. Khách hàng đăng ký hợp đồng dài hạn (`Two year`) sẽ trung thành với công ty hơn so với hợp đồng ngắn hạn như `Month-to-month`. Để cải thiện tỉ lệ churn trong nhóm khách hàng đăng ký hợp đồng `Month-to-month` có thể sử dụng 1 số biện pháp sau:
+    - Cải thiện dịch vụ (giảm số vấn đề khách hàng gặp phải trong quá trình sử dụng dịch vụ) và chi phí hàng tháng
+    - Cung cấp gói `Premium Plan` với giá ưu đãi.
+    - Tập trung vào nhóm tuổi 30-45
+    - Tập trung vào các đối tượng là hộ gia đình, nhà trọ, v.v

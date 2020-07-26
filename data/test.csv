@@ -1,0 +1,1340 @@
+id,gender,age,dependents,lifetime,phone_services,internet_services,online_streaming,multiple_connections,premium_plan,online_protect,contract_plan,ebill_services,default_payment,monthly_charges,issues
+3186,Female,30-45,Yes,58,Yes,None,,No,,,Two year,No,Auto-payment,20.3,12
+5531,Male,30-45,Yes,68,No,3G,Sometimes,,No,No,One year,No,Physical,44.8,4
+5264,Male,45-60,No,69,No,3G,No,,No,Yes,One year,Yes,Auto-payment,29.8,12
+3161,Male,18-30,No,14,Yes,None,,No,,,One year,No,Physical,19.35,4
+3699,Female,30-45,No,30,Yes,3G,Sometimes,No,Yes,Yes,One year,No,Auto-payment,70.25,6
+5852,Male,45-60,No,21,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.1,27
+5559,Female,18-30,No,13,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,31.65,5
+6260,Female,18-30,No,13,No,3G,No,,Yes,Yes,Two year,No,Physical,35.4,6
+2636,Female,45-60,No,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,113,3
+2784,Female,18-30,Yes,4,Yes,4G,Major User,No,Yes,Yes,Month-to-month,Yes,Auto-payment,98.1,16
+5134,Male,>60,No,15,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,80.2,22
+1395,Male,30-45,No,41,Yes,3G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,73,27
+1879,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.05,27
+5696,Male,30-45,No,22,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Online Transfer,54.2,15
+2683,Female,18-30,No,7,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,79.65,22
+54,Female,45-60,Yes,60,Yes,3G,Sometimes,No,Yes,Yes,One year,Yes,Auto-payment,74.85,13
+5992,Male,30-45,Yes,65,Yes,3G,Sometimes,Yes,No,Yes,One year,No,Auto-payment,72.45,29
+6968,Female,>60,No,22,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,74.4,25
+738,Male,>60,No,42,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,79.35,9
+4833,Female,18-30,No,41,Yes,None,,No,,,One year,Yes,Physical,19.75,18
+3843,Male,45-60,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Physical,70.85,16
+6422,Male,18-30,No,52,Yes,3G,No,No,No,Yes,One year,No,Online Transfer,53.75,7
+260,Male,>60,No,3,No,3G,Sometimes,,No,Yes,Month-to-month,Yes,Online Transfer,41.15,29
+1982,Male,18-30,Yes,14,Yes,None,,No,,,Month-to-month,No,Physical,19.95,13
+3380,Male,45-60,No,1,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.1,26
+4385,Male,18-30,No,21,Yes,None,,No,,,One year,Yes,Physical,20.35,13
+5599,Male,30-45,No,9,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Physical,94.85,22
+1001,Male,45-60,No,27,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.5,23
+1086,Female,>60,No,11,Yes,4G,Major User,No,No,No,Month-to-month,No,Auto-payment,89.7,25
+3078,Female,>60,No,2,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.55,29
+3090,Male,18-30,No,1,Yes,,Sometimes,No,No,No,Month-to-month,Yes,Physical,53.5,29
+433,Male,18-30,No,12,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,45.4,19
+303,Female,30-45,Yes,68,No,3G,Major User,,Yes,Yes,Two year,No,Auto-payment,60.3,12
+3544,Male,30-45,No,31,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Online Transfer,93.8,20
+4856,Female,30-45,Yes,31,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,91.15,23
+3749,Male,>60,No,2,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.85,23
+6730,Male,30-45,Yes,15,Yes,None,,No,,,One year,No,Physical,19.65,5
+2231,Male,18-30,No,10,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70,25
+4343,Female,>60,No,8,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.75,29
+4985,Female,30-45,Yes,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,83.3,19
+3097,Male,18-30,Yes,2,Yes,None,,No,,,Month-to-month,No,Physical,20.4,4
+6120,Male,18-30,No,6,Yes,3G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,59.45,17
+1997,Female,30-45,Yes,67,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,105.65,17
+3961,Female,18-30,No,8,No,,No,,No,No,Month-to-month,Yes,Physical,29.25,5
+2428,Male,18-30,Yes,38,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,99.25,19
+219,Female,18-30,No,8,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,80,8
+1271,Female,18-30,No,53,No,3G,Sometimes,,Yes,Yes,One year,Yes,Online Transfer,53.6,17
+4795,Female,30-45,No,53,Yes,None,,No,,,One year,No,Auto-payment,20.8,22
+1506,Male,30-45,No,68,No,3G,Major User,,No,Yes,Two year,Yes,Auto-payment,54.1,17
+4491,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Auto-payment,19.75,13
+4644,Male,18-30,No,13,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,50.55,10
+3745,Male,18-30,No,7,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,94.25,23
+3991,Female,18-30,No,4,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Online Transfer,93.5,19
+4255,Male,30-45,No,13,Yes,3G,Major User,Yes,No,Yes,One year,Yes,Physical,75.3,27
+2339,Female,>60,No,21,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.25,19
+3005,Female,>60,No,24,Yes,None,,No,,,Month-to-month,Yes,Physical,20.3,15
+4953,Female,18-30,No,29,Yes,None,,No,,,Two year,No,Physical,19.4,10
+3142,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.8,22
+4457,Male,30-45,Yes,22,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,75,3
+2427,Male,18-30,No,1,No,3G,Sometimes,,No,No,Month-to-month,No,Online Transfer,35.9,20
+2921,Male,18-30,No,9,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.5,22
+1226,Female,30-45,No,72,Yes,None,,Yes,,,Two year,No,Auto-payment,24.65,18
+3716,Female,30-45,No,11,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,102,19
+6618,Male,18-30,No,26,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,86.65,7
+6392,Female,30-45,Yes,60,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,49.75,14
+642,Male,18-30,No,1,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,89.55,999
+2943,Male,18-30,No,40,Yes,None,,Yes,,,Two year,Yes,Physical,24.6,3
+6985,Male,30-45,Yes,37,No,3G,No,,Yes,Yes,One year,Yes,Online Transfer,40.2,9
+4650,Female,30-45,Yes,10000,Yes,None,,Yes,,,Month-to-month,No,Physical,26.45,3
+4004,Male,30-45,No,72,Yes,3G,No,Yes,Yes,Yes,Two year,Yes,Auto-payment,67.8,9
+5097,Male,18-30,No,35,Yes,4G,No,Yes,Yes,Yes,Month-to-month,Yes,Physical,96.75,4
+4490,Female,45-60,No,54,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,115.6,3
+2048,Male,>60,No,21,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Auto-payment,96.8,21
+4241,Female,30-45,Yes,22,Yes,3G,No,No,No,Yes,Month-to-month,No,Physical,61.15,999
+4307,Female,>60,No,37,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,96.55,23
+6600,Female,30-45,Yes,3,No,3G,No,,No,No,Month-to-month,No,Auto-payment,29.7,25
+2655,Female,18-30,Yes,4,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Physical,89.6,25
+5607,Female,>60,No,40,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,55.8,23
+1000,Female,18-30,No,7,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,95.35,20
+2766,Female,30-45,No,64,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,115,8
+4965,Female,18-30,No,6,No,3G,Major User,,No,Yes,Month-to-month,Yes,Online Transfer,47.95,28
+755,Male,>60,No,20,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.55,17
+3121,Female,>60,No,16,Yes,3G,Sometimes,No,Yes,No,Month-to-month,No,Online Transfer,59.4,999
+944,Female,30-45,Yes,54,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,104.1,15
+1433,Male,30-45,No,9,Yes,3G,Sometimes,No,Yes,No,Month-to-month,Yes,Physical,68.95,8
+5346,Male,18-30,No,66,Yes,3G,Sometimes,Yes,No,Yes,Two year,Yes,Auto-payment,74.6,5
+1878,Male,18-30,No,3,Yes,None,,No,,,Month-to-month,Yes,Auto-payment,20.75,6
+4317,Female,18-30,Yes,3,Yes,None,,No,,,One year,Yes,Auto-payment,20.55,5
+1309,Female,18-30,No,18,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.2,20
+5414,Male,18-30,No,64,Yes,4G,Major User,Yes,Yes,No,One year,Yes,Auto-payment,105.65,29
+3569,Male,18-30,No,17,Yes,None,,No,,,One year,No,Physical,19.95,17
+4088,Male,18-30,No,7,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,73.6,15
+4744,Male,>60,No,64,Yes,,,No,,,Two year,Yes,Auto-payment,20.05,19
+4681,Male,>60,No,9,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,83.85,26
+3534,Female,18-30,Yes,46,Yes,4G,Major User,No,Yes,No,One year,Yes,Auto-payment,105.2,15
+4374,Male,30-45,Yes,71,Yes,None,,No,,,Two year,Yes,Auto-payment,19.6,19
+4502,Male,18-30,No,55,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,96.8,25
+6038,Female,30-45,Yes,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,114.2,29
+2983,Male,30-45,Yes,71,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,89.9,6
+3834,Female,30-45,Yes,57,Yes,3G,Major User,No,No,No,One year,Yes,Auto-payment,70.1,19
+4628,Female,30-45,No,12,Yes,3G,No,No,Yes,No,Month-to-month,No,Auto-payment,54.2,2
+3356,Female,30-45,Yes,4,Yes,,No,Yes,No,No,Month-to-month,No,Physical,50.85,26
+607,Male,18-30,Yes,51,Yes,3G,No,No,Yes,No,One year,No,Auto-payment,47.85,4
+4973,Male,45-60,No,13,Yes,,Sometimes,Yes,No,No,Month-to-month,No,Auto-payment,93.8,15
+5952,Female,18-30,Yes,4,Yes,None,,Yes,,,Month-to-month,Yes,Physical,25.45,19
+4054,Female,>60,No,34,No,3G,Major User,,No,Yes,Month-to-month,Yes,Online Transfer,56.25,19
+3632,Female,30-45,No,24,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Physical,79.65,17
+2567,Male,30-45,No,60,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Online Transfer,95.75,15
+4609,Male,30-45,Yes,25,Yes,3G,No,Yes,Yes,No,One year,Yes,Physical,55.1,9
+2169,Female,30-45,No,62,Yes,,Major User,No,Yes,Yes,Two year,No,Physical,81,9
+4910,Female,18-30,No,30,Yes,3G,Major User,No,Yes,Yes,One year,No,Auto-payment,85.35,25
+1887,Female,18-30,No,16,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,72.65,19
+6886,Female,>60,No,8,Yes,4G,Major User,Yes,No,Yes,Month-to-month,No,Online Transfer,101.35,27
+1954,Male,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.45,21
+1364,Female,30-45,Yes,51,Yes,3G,Major User,No,Yes,Yes,Two year,No,Auto-payment,85.5,5
+6026,Female,18-30,No,13,Yes,None,,No,,,Month-to-month,No,Auto-payment,19.45,18
+1584,Female,>60,No,65,No,3G,Major User,,No,Yes,Two year,Yes,Auto-payment,53.5,16
+643,Female,>60,No,49,Yes,4G,Sometimes,No,No,Yes,One year,Yes,Auto-payment,89.85,4
+5901,Male,30-45,Yes,49,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Online Transfer,84.5,28
+6609,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.1,20
+3617,Female,45-60,No,18,No,3G,Major User,,No,Yes,Month-to-month,Yes,Online Transfer,48.35,19
+3143,Male,30-45,Yes,13,Yes,3G,Sometimes,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,72.8,3
+4857,Female,18-30,No,20,No,,No,,No,No,Month-to-month,No,Auto-payment,24.9,19
+4688,Female,45-60,No,70,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,90.85,14
+6765,Female,30-45,Yes,69,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.6,15
+5,Female,18-30,No,8,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,99.65,24
+3467,Male,>60,No,5,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,91.4,22
+2289,Female,30-45,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Physical,107.45,18
+5182,Male,18-30,No,12,Yes,None,,Yes,,,One year,No,Auto-payment,24.95,16
+5672,Female,30-45,No,49,Yes,3G,Sometimes,Yes,No,Yes,One year,No,Online Transfer,71.8,17
+4755,Male,30-45,No,33,Yes,4G,Major User,No,No,No,Month-to-month,No,Online Transfer,91.25,4
+1724,Female,30-45,No,3,Yes,4G,Major User,Yes,No,No,Month-to-month,No,Online Transfer,94.9,8
+1238,Female,>60,No,16,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,96.15,26
+4763,Female,30-45,Yes,58,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,91.55,2
+2007,Male,18-30,No,2,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.2,25
+389,Male,18-30,Yes,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,44,2
+6420,Male,30-45,No,32,Yes,4G,No,Yes,Yes,No,One year,Yes,Online Transfer,79.25,3
+161,Female,30-45,No,20,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,82.4,23
+5074,Female,18-30,Yes,49,Yes,,,No,,,One year,No,Auto-payment,19.45,7
+1905,Female,18-30,No,41,Yes,None,,Yes,,,One year,Yes,Physical,24.85,18
+3694,Female,30-45,Yes,67,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,108.75,22
+5324,Male,18-30,No,24,Yes,3G,No,Yes,Yes,No,One year,No,Auto-payment,54.6,17
+916,Female,>60,No,23,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,75.4,10
+1923,Male,30-45,Yes,37,Yes,None,,No,,,Two year,No,Auto-payment,19.8,3
+133,Male,18-30,No,1,No,3G,Sometimes,,No,No,Month-to-month,Yes,Online Transfer,35.45,27
+1049,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.65,29
+5670,Female,30-45,Yes,17,Yes,None,,Yes,,,Month-to-month,No,Physical,24.1,20
+1991,Male,30-45,Yes,45,Yes,3G,Major User,Yes,No,Yes,One year,No,Auto-payment,78.75,12
+6278,Female,30-45,No,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,104.3,18
+3958,Male,30-45,No,16,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,73.85,26
+4362,Female,30-45,No,49,Yes,None,,No,,,One year,No,Auto-payment,20.7,12
+3778,Male,18-30,No,3,Yes,3G,No,Yes,No,No,Month-to-month,No,Auto-payment,50.4,4
+6100,Female,45-60,No,29,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,99.05,29
+4977,Male,30-45,Yes,24,Yes,None,,No,,,One year,Yes,Auto-payment,20.8,5
+3875,Male,45-60,Yes,41,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,111.95,23
+4463,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.85,19
+4668,Female,18-30,Yes,2,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,61.2,2
+4936,Female,>60,No,45,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Online Transfer,97.05,10
+614,Male,18-30,No,50,Yes,3G,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,69.5,10
+6350,Male,18-30,Yes,3,Yes,None,,No,,,Month-to-month,Yes,Physical,20.05,19
+6388,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,20.4,17
+5105,Female,45-60,No,40,Yes,4G,Major User,No,Yes,No,One year,Yes,Auto-payment,99.2,21
+6306,Male,18-30,No,71,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,116.3,3
+6054,Female,30-45,Yes,36,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,97.35,19
+6301,Female,>60,No,67,Yes,3G,No,Yes,No,No,Month-to-month,No,Online Transfer,54.9,19
+6152,Female,18-30,No,16,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,93.2,22
+2067,Male,45-60,No,65,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Auto-payment,103.15,9
+4329,Female,30-45,Yes,17,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Online Transfer,94.4,17
+4075,Male,18-30,No,53,No,3G,Sometimes,,No,No,Month-to-month,Yes,Auto-payment,46.3,8
+1330,Male,30-45,No,22,Yes,,No,No,Yes,No,One year,Yes,Auto-payment,56.25,13
+2680,Male,30-45,Yes,71,Yes,3G,Major User,No,Yes,Yes,Two year,No,Auto-payment,85.45,4
+3188,Female,18-30,No,8,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,49.85,21
+2260,Female,18-30,No,3,Yes,4G,No,No,Yes,Yes,Month-to-month,No,Auto-payment,80.1,29
+3845,Male,18-30,No,4,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,73.9,20
+5003,Male,30-45,Yes,11,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.35,25
+3671,Female,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.1,27
+6907,Female,18-30,No,41,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,70.25,20
+915,Male,45-60,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,73.55,17
+2375,Female,45-60,No,71,Yes,4G,Major User,No,Yes,Yes,Two year,Yes,Auto-payment,109.7,13
+1853,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,45.15,20
+2268,Female,18-30,No,40,Yes,None,,No,,,Two year,Yes,Auto-payment,20.6,17
+1533,Female,18-30,No,14,Yes,4G,No,No,No,Yes,Month-to-month,No,Online Transfer,75.35,25
+1486,Female,18-30,No,2,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Auto-payment,55.05,21
+2247,Female,18-30,No,40,Yes,None,,No,,,Two year,No,Auto-payment,19.65,5
+3361,Female,>60,No,64,Yes,3G,Sometimes,Yes,Yes,Yes,Month-to-month,No,Auto-payment,74.65,3
+4030,Female,18-30,Yes,5,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,51,11
+4447,Male,30-45,No,68,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Online Transfer,107.7,2
+1668,Female,18-30,No,45,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,115.65,3
+1530,Male,30-45,Yes,2,Yes,,Sometimes,No,Yes,Yes,Month-to-month,No,Auto-payment,90,17
+5652,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,48.6,11
+4862,Female,18-30,No,2,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.95,21
+5684,Female,45-60,No,58,Yes,,Major User,No,Yes,No,One year,Yes,Auto-payment,105.5,28
+2804,Male,30-45,No,9,No,3G,No,,No,No,One year,No,Auto-payment,24.1,28
+3368,Female,18-30,No,46,Yes,4G,Sometimes,Yes,No,Yes,One year,Yes,Online Transfer,94.15,17
+5231,Male,45-60,No,16,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.75,20
+4887,Female,30-45,Yes,38,Yes,None,,No,,,Month-to-month,No,Physical,20.45,9
+4804,Female,18-30,No,61,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,118.6,13
+3507,Male,18-30,No,4,Yes,None,,No,,,Month-to-month,No,Physical,19.75,7
+1664,Female,18-30,No,46,Yes,4G,Major User,Yes,No,No,Month-to-month,No,Auto-payment,96.05,18
+526,Male,45-60,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,115.75,7
+5084,Female,30-45,Yes,22,Yes,None,,No,,,One year,No,Auto-payment,20.75,3
+6062,Female,>60,No,53,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,73.8,15
+4725,Male,18-30,No,1,Yes,3G,No,Yes,Yes,Yes,Month-to-month,No,Physical,62.05,19
+2294,Male,18-30,No,12,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,106.7,15
+3743,Male,18-30,Yes,4,Yes,,No,No,No,No,Month-to-month,No,Online Transfer,49.35,22
+1441,Female,45-60,No,58,Yes,4G,Major User,Yes,No,No,One year,Yes,Auto-payment,97.8,4
+339,Male,30-45,No,63,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,103.4,25
+1575,Male,18-30,No,66,Yes,4G,Major User,No,No,Yes,Month-to-month,No,Online Transfer,99.5,25
+2034,Male,30-45,Yes,41,Yes,3G,No,No,No,Yes,One year,Yes,Auto-payment,60.3,2
+2844,Female,45-60,No,4,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,99.6,17
+3930,Female,30-45,Yes,67,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,109.4,7
+314,Male,18-30,No,5,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.6,19
+751,Male,30-45,Yes,70,Yes,3G,Major User,No,No,Yes,Two year,Yes,Auto-payment,80.15,12
+4698,Female,45-60,No,66,Yes,3G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,80.55,19
+3280,Male,30-45,No,55,Yes,3G,No,No,No,Yes,Two year,No,Online Transfer,58.6,10
+2498,Male,30-45,No,27,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Online Transfer,53.8,3
+2019,Male,30-45,No,67,Yes,4G,Major User,Yes,No,Yes,One year,No,Online Transfer,104.1,22
+4166,Male,>60,No,32,Yes,None,,No,,,One year,No,Auto-payment,19.8,5
+6055,Female,18-30,No,6,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,55,6
+3700,Male,18-30,Yes,20,Yes,None,,No,,,Month-to-month,Yes,Online Transfer,19.4,27
+1475,Female,45-60,No,69,Yes,4G,Major User,Yes,Yes,No,Two year,No,Auto-payment,105.4,2
+4660,Female,18-30,No,2,Yes,None,,No,,,Month-to-month,No,Physical,19.5,18
+734,Female,30-45,No,27,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Auto-payment,90.15,19
+3419,Male,30-45,Yes,69,Yes,,Sometimes,No,Yes,No,Two year,Yes,Physical,92.15,18
+2563,Male,>60,No,10000,Yes,4G,Major User,Yes,No,Yes,Month-to-month,No,Physical,105.95,27
+1498,Male,>60,No,15,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,75.65,23
+6944,Male,18-30,No,3,Yes,None,,No,,,Month-to-month,Yes,Physical,19.1,15
+1784,Female,18-30,No,4,Yes,None,,No,,,Month-to-month,No,Physical,20.35,26
+3138,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,45.3,16
+1306,Female,18-30,No,70,Yes,4G,Major User,Yes,Yes,Yes,One year,No,Auto-payment,115.55,17
+7021,Male,18-30,No,12,Yes,3G,Sometimes,No,Yes,No,One year,Yes,Online Transfer,59.8,19
+4065,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.75,29
+3141,Male,>60,No,2,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Auto-payment,95.1,20
+6822,Male,45-60,No,32,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,80.3,16
+7035,Male,18-30,No,19,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,78.7,14
+4971,Female,18-30,No,18,Yes,None,,No,,,Month-to-month,Yes,Physical,19.55,15
+5803,Male,30-45,No,5,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,81.3,19
+4084,Female,18-30,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,78.05,28
+6775,Male,>60,No,57,Yes,3G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,79.75,10
+4624,Male,18-30,No,8,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,94.7,19
+6824,Female,>60,No,66,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.45,15
+539,Female,30-45,Yes,60,Yes,3G,Major User,No,Yes,Yes,Two year,Yes,Auto-payment,80.6,15
+4106,Female,45-60,No,24,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.55,15
+446,Female,18-30,No,1,Yes,,No,No,No,No,Month-to-month,No,Physical,69.55,26
+2590,Female,45-60,No,25,Yes,4G,Sometimes,No,No,Yes,Month-to-month,No,Auto-payment,88.4,5
+4740,Male,45-60,No,10000,No,3G,Sometimes,,No,No,Month-to-month,No,Auto-payment,39.1,27
+6819,Male,>60,No,55,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,98.8,16
+264,Female,30-45,No,45,Yes,4G,Major User,Yes,Yes,Yes,One year,No,Physical,113.3,10
+1442,Female,30-45,Yes,52,Yes,4G,Major User,No,No,Yes,One year,No,Online Transfer,100.3,6
+2788,Male,18-30,Yes,71,Yes,4G,No,Yes,No,No,One year,Yes,Auto-payment,85.45,17
+3337,Female,18-30,No,7,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.35,7
+75,Female,>60,No,56,Yes,4G,Major User,Yes,No,Yes,One year,No,Online Transfer,110.5,3
+4924,Female,18-30,No,1,No,3G,Sometimes,,No,No,Month-to-month,Yes,Online Transfer,35.75,18
+2101,Female,30-45,No,37,Yes,4G,Sometimes,Yes,Yes,Yes,One year,Yes,Online Transfer,99.2,21
+4793,Male,30-45,No,49,Yes,,Major User,No,Yes,Yes,One year,Yes,Auto-payment,99.25,14
+937,Female,18-30,No,6,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,79.05,17
+3316,Female,30-45,No,26,No,3G,Sometimes,,No,Yes,One year,No,Auto-payment,47.85,2
+3283,Female,30-45,Yes,69,Yes,None,,No,,,One year,Yes,Auto-payment,20.35,7
+3788,Male,30-45,No,54,Yes,,Major User,No,Yes,Yes,Two year,No,Auto-payment,109.75,28
+1981,Female,30-45,No,58,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,102.1,22
+1473,Female,18-30,No,24,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.75,29
+4640,Male,30-45,Yes,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70,17
+3917,Male,>60,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,69.1,23
+1735,Male,30-45,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,114.45,14
+6369,Male,>60,No,67,Yes,4G,Major User,No,Yes,No,Two year,Yes,Online Transfer,105.05,2
+6653,Female,18-30,No,28,No,3G,No,,No,Yes,Month-to-month,Yes,Physical,29.75,12
+4302,Male,18-30,No,51,Yes,4G,Sometimes,No,No,No,One year,No,Physical,86.35,9
+1334,Female,>60,No,1,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,25.2,20
+4459,Female,18-30,No,1,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,100.25,27
+6373,Male,30-45,Yes,44,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Auto-payment,92.95,16
+3247,Female,18-30,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,111.6,19
+5806,Female,18-30,Yes,2,Yes,None,,No,,,Month-to-month,Yes,Online Transfer,19.6,24
+5130,Male,18-30,No,8,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,30.45,17
+4371,Male,30-45,Yes,13,Yes,None,,Yes,,,One year,No,Auto-payment,24.5,7
+1246,Female,30-45,Yes,45,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,105.15,3
+6228,Male,18-30,Yes,70,Yes,3G,No,Yes,Yes,No,One year,No,Auto-payment,64.95,4
+6024,Female,30-45,No,3,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,91.5,27
+5887,Male,18-30,Yes,17,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,50.3,6
+4747,Male,18-30,No,35,Yes,None,,No,,,One year,No,Auto-payment,20.6,10
+2111,Male,30-45,Yes,30,Yes,,,No,,,Two year,No,Physical,21.25,8
+4467,Female,30-45,No,48,Yes,3G,Sometimes,Yes,Yes,Yes,One year,Yes,Physical,69.55,7
+5930,Female,18-30,No,72,Yes,4G,No,Yes,Yes,No,Two year,Yes,Auto-payment,84.7,17
+173,Female,30-45,No,53,Yes,4G,Major User,No,No,Yes,One year,Yes,Auto-payment,94.85,20
+151,Male,18-30,No,7,Yes,4G,Major User,Yes,No,No,Month-to-month,No,Physical,95,20
+2876,Male,18-30,No,19,Yes,None,,No,,,One year,Yes,Auto-payment,19.7,11
+1077,Female,18-30,No,41,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,114.5,21
+2651,Male,18-30,No,24,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,90.35,26
+3830,Male,30-45,No,4,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,100.2,25
+824,Female,18-30,No,62,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.8,11
+4721,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,20.25,23
+3931,Female,30-45,No,25,Yes,3G,Sometimes,No,Yes,No,Month-to-month,Yes,Physical,71.05,2
+4673,Female,>60,No,25,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Physical,102.8,24
+5321,Female,30-45,No,69,Yes,4G,Major User,No,Yes,No,One year,Yes,Auto-payment,106.4,8
+424,Female,18-30,No,10,No,3G,No,,No,Yes,Month-to-month,No,Auto-payment,40.7,7
+5553,Male,18-30,No,1,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Physical,55.7,19
+5270,Male,18-30,Yes,40,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,55.25,24
+5625,Female,18-30,Yes,22,Yes,,,No,,,Month-to-month,Yes,Online Transfer,20.55,9
+2660,Male,18-30,Yes,13,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,52.1,19
+911,Female,>60,No,15,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Auto-payment,89,13
+6144,Male,45-60,No,23,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,90,11
+5374,Female,18-30,No,10,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.75,23
+3766,Female,>60,No,1,Yes,3G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,55.8,23
+1826,Male,30-45,No,65,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,90.65,8
+1681,Female,30-45,No,72,Yes,None,,Yes,,,Two year,No,Auto-payment,25,8
+349,Female,45-60,No,64,Yes,4G,Sometimes,No,No,Yes,One year,No,Auto-payment,97,15
+5875,Female,30-45,No,65,Yes,3G,Sometimes,No,No,Yes,Two year,No,Auto-payment,71,11
+3653,Male,30-45,No,38,No,3G,Major User,,Yes,No,Two year,Yes,Auto-payment,60,3
+3689,Female,>60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,71.15,29
+6275,Male,18-30,No,62,Yes,3G,No,Yes,Yes,Yes,Two year,No,Auto-payment,69.4,3
+4150,Male,45-60,No,7,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,89,6
+1118,Female,30-45,Yes,48,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,2000,15
+6199,Male,>60,No,43,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Physical,89.55,20
+1952,Female,30-45,Yes,20,Yes,4G,Sometimes,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,95.5,15
+3437,Female,18-30,No,41,Yes,3G,No,Yes,No,No,One year,Yes,Auto-payment,56.3,13
+354,Female,>60,No,21,No,3G,Sometimes,,No,No,Month-to-month,Yes,Online Transfer,41.9,21
+6904,Female,>60,No,64,No,3G,Sometimes,,Yes,No,Month-to-month,Yes,Online Transfer,43.85,9
+5063,Male,18-30,No,21,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,82.35,24
+1751,Male,18-30,No,14,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Online Transfer,89.95,22
+6553,Female,30-45,Yes,61,No,3G,Major User,,Yes,Yes,Two year,Yes,Auto-payment,61.45,7
+235,Male,18-30,No,2,Yes,3G,No,Yes,No,No,Month-to-month,Yes,Physical,54.4,25
+2415,Female,45-60,Yes,40,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,94.55,22
+4603,Male,30-45,No,3,No,3G,No,,Yes,No,Month-to-month,No,Physical,35.1,12
+1730,Male,18-30,No,1,Yes,3G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,59.85,17
+3145,Female,18-30,No,4,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,76.65,27
+1406,Male,18-30,Yes,66,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.3,10
+4592,Female,30-45,Yes,39,Yes,None,,Yes,,,One year,Yes,Physical,24.2,6
+6464,Male,>60,No,50,Yes,3G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,70.35,12
+6197,Male,18-30,No,17,Yes,3G,No,No,Yes,No,Month-to-month,No,Physical,51.5,25
+1472,Male,30-45,Yes,13,Yes,,No,Yes,No,No,Month-to-month,Yes,Auto-payment,74.4,27
+5018,Female,30-45,Yes,72,Yes,,,No,,,Two year,No,Auto-payment,19.7,4
+1572,Female,>60,No,3,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,45,20
+1824,Male,30-45,Yes,72,Yes,None,,No,,,Two year,No,Auto-payment,20.3,18
+5812,Male,30-45,Yes,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,71,19
+2862,Male,30-45,No,7,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.35,16
+2495,Female,30-45,No,38,Yes,None,,No,,,One year,Yes,Auto-payment,20.25,18
+6784,Female,18-30,No,19,Yes,None,,Yes,,,Month-to-month,No,Auto-payment,24.7,15
+5603,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,48.6,23
+5617,Male,18-30,No,2,Yes,,,No,,,Month-to-month,No,Physical,20.75,9
+1852,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Auto-payment,46.2,24
+3382,Male,30-45,Yes,72,Yes,None,,Yes,,,Two year,No,Auto-payment,25.55,9
+3240,Female,30-45,No,54,Yes,4G,Major User,Yes,No,No,One year,No,Auto-payment,106.55,21
+6407,Female,18-30,No,15,Yes,3G,Sometimes,No,No,No,One year,No,Physical,56.15,19
+4429,Female,30-45,Yes,70,Yes,3G,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,79.7,2
+3198,Male,30-45,No,40,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Auto-payment,106,14
+5656,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,49.75,4
+3505,Male,18-30,No,9,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,24.95,5
+4875,Female,45-60,No,48,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,No,Online Transfer,117.45,18
+6345,Female,>60,No,2,Yes,3G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,56.55,11
+2991,Female,45-60,No,37,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,No,Online Transfer,90,3
+6910,Male,18-30,Yes,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,114.6,18
+1284,Male,30-45,Yes,59,Yes,None,,No,,,Two year,No,Physical,19.85,17
+6112,Female,45-60,Yes,66,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,104.9,17
+5177,Male,45-60,No,36,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.1,27
+5229,Female,45-60,No,43,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,107.55,29
+6979,Male,18-30,Yes,1,No,3G,No,,No,No,Month-to-month,No,Physical,24.2,5
+2198,Female,30-45,Yes,17,Yes,3G,No,Yes,Yes,Yes,One year,Yes,Physical,61.95,14
+767,Male,18-30,No,14,Yes,,,No,,,One year,No,Auto-payment,20.4,10
+5874,Female,18-30,No,10,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,100.6,24
+2570,Male,30-45,No,30,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,94.05,17
+2367,Female,18-30,No,1,Yes,,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,85.55,16
+6269,Female,18-30,No,35,No,3G,No,,Yes,Yes,Month-to-month,Yes,Physical,33.45,14
+3379,Female,18-30,No,2,Yes,None,,No,,,Month-to-month,No,Physical,19.3,17
+5535,Female,30-45,Yes,55,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,85.1,16
+663,Male,30-45,Yes,65,Yes,3G,Sometimes,Yes,No,No,Two year,Yes,Physical,69.55,999
+6983,Female,18-30,No,23,Yes,4G,No,No,Yes,Yes,Month-to-month,No,Auto-payment,83.2,19
+1657,Male,18-30,No,35,Yes,None,,Yes,,,Month-to-month,Yes,Online Transfer,25.6,7
+2640,Male,18-30,No,22,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Auto-payment,94.95,11
+4571,Female,30-45,No,20,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,69.8,13
+6281,Male,18-30,No,6,Yes,None,,No,,,One year,No,Physical,20.6,9
+2716,Female,30-45,No,19,Yes,3G,No,No,No,No,Month-to-month,No,Physical,44.9,5
+6849,Male,30-45,Yes,30,Yes,4G,No,Yes,Yes,No,Month-to-month,Yes,Auto-payment,83.55,18
+1560,Male,18-30,Yes,39,No,3G,Sometimes,,Yes,No,One year,No,Auto-payment,45.05,6
+6170,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Auto-payment,19.4,17
+6554,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,68.65,28
+5787,Female,18-30,No,36,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Online Transfer,87.55,21
+6460,Male,18-30,No,44,Yes,4G,Major User,No,Yes,No,Month-to-month,No,Online Transfer,100.55,28
+2711,Female,30-45,Yes,28,Yes,4G,Major User,No,No,No,One year,Yes,Auto-payment,90.1,17
+6620,Male,18-30,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.8,25
+926,Female,>60,No,3,Yes,,No,Yes,No,No,Month-to-month,Yes,Online Transfer,79.4,16
+3839,Female,30-45,Yes,15,Yes,None,,No,,,Month-to-month,No,Physical,20.05,17
+1518,Female,18-30,No,5,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.55,9
+2084,Male,18-30,Yes,1,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,69.75,23
+994,Male,18-30,No,13,Yes,None,,No,,,Two year,No,Auto-payment,20,13
+5584,Male,30-45,No,11,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.5,26
+6942,Male,>60,No,68,Yes,None,,No,,,Two year,Yes,Auto-payment,20,4
+6562,Female,45-60,No,14,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,100.2,23
+690,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.45,8
+1521,Male,18-30,No,37,Yes,,No,Yes,Yes,Yes,One year,No,Online Transfer,67.45,16
+4358,Male,30-45,Yes,13,Yes,3G,Major User,No,No,No,One year,Yes,Online Transfer,64.75,17
+3081,Male,18-30,No,4,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,77.85,25
+6684,Female,18-30,Yes,11,No,,No,,Yes,No,One year,Yes,Physical,36.05,11
+4790,Female,45-60,No,31,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.85,14
+686,Male,18-30,No,51,Yes,None,,Yes,,,One year,Yes,Auto-payment,24.6,12
+6883,Female,18-30,Yes,34,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Auto-payment,105.35,14
+2838,Female,18-30,No,41,Yes,None,,No,,,Two year,No,Physical,20,12
+1566,Male,30-45,Yes,72,Yes,3G,Major User,No,No,Yes,Two year,Yes,Auto-payment,75.4,17
+5211,Female,30-45,No,8,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.9,19
+3004,Male,30-45,Yes,1,Yes,4G,Major User,No,No,No,Month-to-month,No,Physical,89.15,16
+31,Male,45-60,No,2,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Auto-payment,95.5,6
+5989,Male,45-60,No,3,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.6,18
+6899,Male,18-30,No,1,Yes,,No,No,No,No,Month-to-month,Yes,Auto-payment,45.1,23
+3887,Male,18-30,No,11,Yes,,No,No,No,No,Month-to-month,No,Online Transfer,74.95,16
+4928,Female,45-60,Yes,4,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,46,29
+241,Male,18-30,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,109.2,14
+266,Male,18-30,No,50,Yes,None,,Yes,,,Two year,No,Auto-payment,24.9,12
+1161,Male,18-30,Yes,1,No,3G,No,,No,No,Month-to-month,Yes,Physical,2000,28
+2586,Female,30-45,Yes,44,Yes,None,,No,,,Month-to-month,No,Physical,19.6,6
+1122,Female,18-30,No,19,No,3G,Major User,,No,No,One year,Yes,Auto-payment,44.85,23
+4233,Female,30-45,No,33,No,3G,Major User,,Yes,Yes,Two year,No,Auto-payment,59.55,14
+6528,Male,30-45,Yes,70,Yes,None,,No,,,Two year,No,Auto-payment,20.35,10
+687,Male,>60,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,49.25,18
+589,Male,30-45,Yes,71,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Online Transfer,90.4,5
+158,Male,30-45,Yes,16,Yes,3G,Sometimes,No,No,Yes,Two year,No,Physical,64.25,17
+5589,Female,18-30,No,46,Yes,,No,No,Yes,Yes,Two year,No,Auto-payment,54.35,28
+2686,Male,>60,No,19,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,79.85,29
+5832,Male,30-45,Yes,20,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.45,17
+6339,Male,18-30,Yes,1,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,49.9,20
+4555,Male,30-45,Yes,19,Yes,None,,No,,,Two year,No,Physical,20.2,2
+889,Female,30-45,Yes,63,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Online Transfer,100.55,29
+3561,Male,18-30,No,26,Yes,4G,No,Yes,Yes,No,Month-to-month,Yes,Online Transfer,80.5,24
+6667,Female,18-30,No,9,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.55,23
+2391,Male,18-30,No,8,Yes,3G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,59.25,6
+1658,Male,30-45,Yes,50,Yes,4G,Major User,Yes,No,Yes,Month-to-month,No,Auto-payment,105.95,25
+4061,Female,18-30,No,14,Yes,3G,No,No,No,No,Month-to-month,No,Auto-payment,50.1,10
+902,Male,18-30,No,17,Yes,4G,Major User,No,No,No,Month-to-month,No,Online Transfer,93.85,28
+2701,Female,30-45,Yes,61,Yes,None,,No,,,One year,No,Auto-payment,19.1,11
+407,Male,45-60,Yes,32,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Physical,93.95,3
+6134,Male,>60,No,6,Yes,3G,No,No,No,No,Month-to-month,No,Auto-payment,2000,17
+2235,Female,30-45,Yes,41,Yes,3G,Sometimes,Yes,No,Yes,One year,Yes,Auto-payment,78.35,11
+4207,Male,18-30,No,21,No,3G,Sometimes,,Yes,No,Month-to-month,Yes,Physical,43.55,17
+3292,Female,18-30,No,5,No,3G,Major User,,No,No,Month-to-month,Yes,Auto-payment,50.95,7
+5644,Male,30-45,No,1,Yes,4G,No,No,No,Yes,Month-to-month,No,Online Transfer,76.2,21
+792,Female,30-45,Yes,8,Yes,,,No,,,Two year,Yes,Physical,19.85,18
+6843,Female,30-45,No,9,Yes,,No,Yes,No,Yes,Month-to-month,No,Auto-payment,91.75,19
+1676,Female,18-30,No,4,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,80.15,3
+139,Female,45-60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Physical,70.45,19
+5879,Male,30-45,No,33,Yes,3G,No,No,Yes,No,Two year,Yes,Physical,61.05,17
+4986,Female,18-30,No,12,Yes,4G,No,Yes,Yes,No,Month-to-month,Yes,Auto-payment,79.55,19
+3680,Male,30-45,No,9,No,3G,Sometimes,,Yes,No,Month-to-month,No,Physical,40.65,15
+3321,Female,30-45,No,64,Yes,None,,Yes,,,Two year,No,Physical,25.55,13
+4898,Female,18-30,No,3,No,3G,No,,No,No,Month-to-month,No,Online Transfer,25.25,20
+5001,Male,18-30,No,19,Yes,,No,No,Yes,Yes,Month-to-month,Yes,Auto-payment,55,27
+4206,Female,30-45,Yes,72,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,116.8,2
+4671,Female,18-30,No,25,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,100.25,15
+297,Male,45-60,No,35,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,100.8,13
+5805,Male,45-60,No,19,Yes,3G,Sometimes,No,No,Yes,Month-to-month,No,Auto-payment,66.4,15
+2831,Female,45-60,No,12,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.1,26
+4161,Male,>60,No,2,Yes,,No,No,No,Yes,Month-to-month,No,Physical,49.95,6
+4052,Female,>60,No,30,No,3G,Sometimes,,No,Yes,Month-to-month,Yes,Online Transfer,40.3,24
+2869,Female,18-30,No,6,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,91.1,16
+3157,Male,18-30,No,9,Yes,3G,No,No,No,No,Month-to-month,No,Physical,44.95,28
+4418,Male,30-45,No,58,Yes,3G,No,No,No,Yes,One year,No,Auto-payment,60.3,17
+670,Female,30-45,Yes,53,Yes,None,,No,,,One year,Yes,Auto-payment,19.85,15
+4237,Male,18-30,No,5,Yes,3G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,70.05,21
+7011,Female,18-30,No,4,Yes,,No,No,Yes,No,Month-to-month,Yes,Physical,60.4,17
+5808,Male,30-45,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,108.4,18
+5697,Female,30-45,No,70,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,109.5,18
+7026,Female,18-30,No,9,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,44.2,18
+458,Male,30-45,No,2,Yes,None,,No,,,Month-to-month,No,Physical,2000,3
+4706,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,44.45,20
+3120,Female,30-45,No,69,Yes,None,,Yes,,,Two year,Yes,Auto-payment,24.95,17
+3055,Male,18-30,Yes,49,Yes,,No,Yes,No,No,Month-to-month,No,Auto-payment,75.2,999
+1410,Female,>60,No,2,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.85,23
+2642,Female,30-45,No,47,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,85.3,15
+2975,Male,18-30,No,3,Yes,3G,Sometimes,No,Yes,No,Month-to-month,No,Physical,60.65,14
+1995,Female,>60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.95,29
+3682,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.1,16
+3274,Female,18-30,No,34,Yes,4G,Major User,No,Yes,Yes,Month-to-month,Yes,Online Transfer,105.1,5
+1121,Female,18-30,No,50,Yes,3G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,82.5,18
+648,Female,>60,No,2,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Online Transfer,89.5,24
+6606,Female,30-45,No,38,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,105,27
+4821,Male,30-45,No,56,No,3G,Major User,,Yes,Yes,One year,Yes,Auto-payment,54.05,3
+3962,Female,45-60,No,7,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.55,16
+3759,Male,18-30,No,7,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,89.35,24
+360,Male,18-30,Yes,5,Yes,None,,No,,,Month-to-month,No,Physical,20.2,6
+2369,Male,18-30,No,64,Yes,4G,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,99.25,4
+3320,Male,45-60,No,18,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,59.1,999
+3946,Female,18-30,No,9,No,,Major User,,Yes,Yes,Month-to-month,No,Physical,58.5,29
+6809,Male,45-60,No,4,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,74.95,15
+3546,Male,30-45,No,71,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Online Transfer,83.2,9
+4089,Female,18-30,No,9,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.75,22
+2155,Female,30-45,No,30,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85,28
+4424,Male,18-30,Yes,1,No,3G,No,,No,No,Month-to-month,No,Online Transfer,24.75,18
+3978,Male,18-30,No,3,Yes,,Major User,No,No,No,Month-to-month,No,Physical,90.7,5
+5885,Male,30-45,Yes,23,Yes,None,,Yes,,,One year,No,Physical,24.35,19
+330,Female,30-45,Yes,35,Yes,None,,No,,,Two year,Yes,Physical,19.85,12
+4563,Female,18-30,No,10,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.05,22
+5609,Male,30-45,No,29,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.15,21
+5620,Male,30-45,No,72,Yes,4G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,104.8,4
+5479,Female,18-30,No,9,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,69.05,12
+3562,Male,>60,No,5,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,89.8,25
+6623,Male,>60,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,76.45,16
+2275,Male,30-45,Yes,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.5,15
+5364,Male,18-30,No,18,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,90.7,21
+2006,Male,18-30,No,5,Yes,,No,Yes,No,No,Month-to-month,No,Online Transfer,47.15,24
+4098,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.2,19
+5597,Male,>60,No,22,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Auto-payment,90.5,999
+4453,Male,30-45,No,10,Yes,,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.5,17
+2852,Male,30-45,No,66,Yes,3G,Major User,No,Yes,Yes,Two year,Yes,Auto-payment,85.9,15
+6074,Male,30-45,No,1,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,23.45,26
+387,Female,18-30,No,42,No,,Sometimes,,Yes,Yes,One year,Yes,Online Transfer,54.75,18
+143,Male,18-30,No,64,Yes,4G,No,Yes,No,No,One year,Yes,Auto-payment,84.3,5
+471,Male,18-30,No,1,Yes,,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,55,15
+5912,Female,>60,No,47,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,85.2,21
+249,Male,18-30,No,42,Yes,,Sometimes,Yes,No,Yes,One year,Yes,Online Transfer,99,7
+4289,Female,18-30,No,54,Yes,None,,No,,,Two year,No,Physical,20.1,6
+2947,Male,30-45,Yes,49,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,90.4,3
+3439,Male,45-60,No,72,Yes,4G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,104.15,23
+4896,Male,18-30,No,24,Yes,,No,No,No,Yes,Month-to-month,Yes,Physical,49.7,8
+816,Female,18-30,No,2,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Physical,86.2,20
+3532,Female,18-30,No,15,Yes,,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,59.45,24
+6936,Male,30-45,Yes,5,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,80.15,29
+4810,Female,>60,No,15,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Online Transfer,89.85,27
+6220,Male,30-45,Yes,10,No,3G,Sometimes,,Yes,Yes,Two year,No,Auto-payment,53.7,4
+5150,Female,30-45,No,2,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.1,7
+2313,Male,30-45,Yes,43,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,104.3,3
+2118,Female,30-45,Yes,22,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.15,9
+2890,Female,45-60,Yes,47,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,70.55,17
+6091,Male,45-60,No,2,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Physical,86.85,27
+4663,Female,>60,No,4,Yes,,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.9,17
+6173,Male,>60,No,35,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Auto-payment,91,19
+1891,Female,>60,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Physical,45.1,18
+346,Female,18-30,No,2,Yes,,Major User,No,No,No,Month-to-month,Yes,Online Transfer,90.4,24
+1028,Male,30-45,Yes,26,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,83.75,23
+6847,Female,30-45,Yes,18,Yes,3G,Sometimes,No,No,No,Month-to-month,No,Physical,55.95,2
+3818,Female,30-45,No,58,Yes,4G,Major User,Yes,Yes,No,Two year,Yes,Auto-payment,109.1,6
+5824,Male,30-45,Yes,66,Yes,3G,Major User,Yes,No,Yes,Two year,No,Auto-payment,79.85,2
+6633,Female,18-30,No,1,Yes,,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.5,19
+6118,Male,18-30,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,118.2,13
+4249,Female,30-45,Yes,10,Yes,3G,Sometimes,No,No,Yes,One year,Yes,Physical,65.9,10
+3366,Male,30-45,No,31,Yes,4G,Major User,No,No,Yes,One year,Yes,Online Transfer,93.8,14
+3972,Male,18-30,No,45,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,50.9,3
+1023,Female,45-60,No,45,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,86.1,16
+1341,Male,18-30,Yes,3,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,54.7,19
+5299,Female,45-60,No,28,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Auto-payment,101.3,24
+1137,Male,30-45,Yes,71,Yes,None,,No,,,Two year,No,Physical,19.8,5
+5888,Female,30-45,Yes,49,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.6,27
+6953,Female,>60,No,13,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,82,15
+1796,Female,30-45,No,23,Yes,3G,Major User,Yes,Yes,No,Month-to-month,Yes,Auto-payment,73.65,17
+3607,Female,18-30,No,13,Yes,3G,No,No,Yes,No,One year,No,Physical,55.15,15
+4947,Male,18-30,No,26,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,98.35,25
+2606,Female,18-30,No,31,Yes,,Major User,Yes,No,No,Month-to-month,No,Online Transfer,104.35,12
+4675,Male,18-30,No,43,Yes,4G,Major User,Yes,Yes,No,One year,Yes,Online Transfer,100,26
+3971,Female,18-30,No,25,Yes,,,Yes,,,Two year,No,Auto-payment,24.75,28
+2957,Female,18-30,No,4,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,80.3,6
+6302,Female,18-30,No,5,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,75.55,18
+512,Female,45-60,No,5,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.35,29
+722,Female,30-45,Yes,4,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.95,15
+2614,Female,30-45,Yes,67,Yes,4G,Sometimes,Yes,Yes,No,One year,Yes,Auto-payment,94.35,17
+4493,Female,18-30,Yes,18,Yes,None,,Yes,,,Two year,No,Auto-payment,25.3,4
+3381,Female,18-30,No,41,Yes,3G,Major User,No,Yes,Yes,One year,Yes,Auto-payment,79.85,16
+2396,Female,45-60,No,38,Yes,4G,Sometimes,Yes,No,No,One year,No,Auto-payment,95,14
+6946,Female,18-30,Yes,48,No,3G,Sometimes,,No,Yes,Month-to-month,No,Auto-payment,45.55,14
+873,Female,18-30,No,60,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,50.8,28
+3127,Female,18-30,No,29,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,30.6,29
+1976,Male,>60,No,1,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.55,28
+5831,Female,18-30,No,9,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Auto-payment,90.8,26
+202,Male,30-45,Yes,71,Yes,4G,Major User,Yes,No,Yes,Two year,No,Online Transfer,105.55,2
+6284,Female,18-30,No,10000,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.5,16
+554,Male,18-30,No,32,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.35,27
+4989,Female,18-30,Yes,7,No,3G,No,,No,No,Month-to-month,No,Physical,29.8,15
+3608,Male,18-30,No,39,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,75.25,28
+3067,Male,18-30,No,6,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,84.4,29
+2,Male,18-30,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,53.85,21
+122,Male,18-30,No,3,Yes,,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.4,24
+4691,Female,45-60,No,56,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,100.65,26
+6462,Male,18-30,No,2,Yes,4G,Major User,No,No,No,Month-to-month,No,Online Transfer,95.65,15
+800,Female,45-60,No,70,Yes,4G,No,Yes,No,No,Two year,Yes,Auto-payment,75.65,13
+2057,Female,30-45,No,22,Yes,3G,Major User,Yes,Yes,No,Month-to-month,Yes,Online Transfer,79.2,27
+1479,Female,18-30,No,44,No,3G,Major User,,No,Yes,One year,Yes,Online Transfer,49.05,15
+5309,Female,30-45,No,61,Yes,,,No,,,Two year,No,Auto-payment,20.25,6
+6130,Female,18-30,No,58,Yes,3G,No,No,Yes,Yes,Two year,Yes,Auto-payment,64.9,3
+2613,Female,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,80.2,16
+969,Female,18-30,No,2,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,96,18
+5222,Female,18-30,No,8,Yes,3G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,65.5,2
+1478,Male,18-30,No,41,Yes,,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,104.7,18
+2327,Female,45-60,No,26,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,85.7,8
+2371,Female,18-30,No,1,Yes,None,,Yes,,,Month-to-month,Yes,Online Transfer,25.7,16
+3602,Female,18-30,No,38,Yes,3G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,66.15,18
+6998,Female,18-30,No,13,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.5,7
+3022,Female,18-30,No,2,Yes,None,,No,,,Month-to-month,No,Physical,19.95,13
+6479,Female,18-30,No,1,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,55,20
+244,Female,>60,No,13,Yes,3G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,54.8,15
+4684,Male,18-30,No,69,Yes,4G,Major User,No,Yes,Yes,One year,Yes,Auto-payment,104.05,21
+3656,Male,45-60,No,49,Yes,,No,No,No,No,Two year,No,Physical,49.8,18
+4966,Male,30-45,Yes,19,Yes,3G,No,Yes,No,No,Month-to-month,No,Auto-payment,50.1,18
+7022,Male,18-30,No,72,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,104.95,2
+5651,Female,30-45,No,42,Yes,4G,No,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,84.3,19
+6668,Female,18-30,No,38,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,103.65,11
+1987,Female,30-45,Yes,25,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,89.15,25
+1474,Male,30-45,Yes,45,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,95.95,19
+376,Male,18-30,No,1,No,3G,No,,No,No,Month-to-month,No,Physical,25.35,4
+2471,Female,30-45,No,53,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,98.4,25
+4341,Male,>60,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,44.15,25
+5173,Male,30-45,Yes,4,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,44.8,19
+3771,Male,18-30,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.05,28
+2211,Female,30-45,No,50,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Physical,104.4,16
+2038,Female,30-45,Yes,26,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,90.8,25
+3827,Female,18-30,No,2,Yes,None,,No,,,One year,No,Physical,20.45,8
+4278,Female,30-45,No,48,Yes,4G,Major User,No,No,Yes,One year,Yes,Online Transfer,97.05,18
+3799,Female,18-30,No,31,Yes,3G,No,Yes,Yes,Yes,Month-to-month,No,Auto-payment,65.25,27
+6231,Female,45-60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Physical,76.4,29
+525,Male,18-30,No,52,Yes,4G,Sometimes,No,No,Yes,One year,No,Online Transfer,91.25,16
+1990,Female,>60,No,16,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.75,21
+5198,Female,45-60,No,47,Yes,4G,No,Yes,No,No,Month-to-month,No,Online Transfer,80.35,22
+2736,Female,45-60,No,60,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Online Transfer,89.45,11
+4262,Male,>60,No,2,Yes,3G,Sometimes,No,No,Yes,Month-to-month,No,Auto-payment,66.4,28
+4375,Male,18-30,No,66,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,114.3,13
+4765,Male,18-30,No,37,No,,Sometimes,,No,No,Two year,No,Auto-payment,35.8,2
+1149,Male,30-45,Yes,13,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Physical,96.65,23
+2283,Male,18-30,No,1,Yes,,No,No,No,No,Month-to-month,Yes,Physical,71.55,17
+2464,Female,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,77.15,20
+3988,Male,18-30,No,51,Yes,3G,Sometimes,Yes,Yes,Yes,One year,Yes,Auto-payment,81.15,999
+3920,Male,18-30,No,71,Yes,4G,No,Yes,Yes,Yes,Two year,Yes,Auto-payment,86.4,19
+2269,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Physical,70.9,20
+5966,Male,30-45,No,42,Yes,4G,Sometimes,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,99.45,28
+3335,Male,18-30,No,12,Yes,None,,Yes,,,Month-to-month,No,Online Transfer,25,14
+3954,Male,45-60,No,17,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.8,13
+1268,Male,30-45,No,59,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,110.15,29
+4126,Male,30-45,Yes,6,Yes,None,,No,,,Month-to-month,No,Physical,19.55,12
+4823,Male,18-30,No,1,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Online Transfer,53.95,23
+5969,Female,18-30,No,31,Yes,4G,No,No,Yes,Yes,Month-to-month,No,Online Transfer,87.6,18
+1705,Female,45-60,No,55,Yes,,No,Yes,Yes,Yes,Month-to-month,No,Online Transfer,90.45,7
+4901,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,74.7,16
+6957,Male,18-30,No,10000,Yes,4G,Sometimes,No,Yes,No,Month-to-month,No,Online Transfer,86.25,18
+2976,Male,18-30,Yes,19,Yes,None,,Yes,,,Month-to-month,Yes,Auto-payment,24.1,2
+3973,Female,30-45,Yes,43,No,3G,Major User,,Yes,Yes,One year,Yes,Auto-payment,60.4,9
+5303,Male,18-30,Yes,43,No,3G,No,,No,Yes,Month-to-month,Yes,Online Transfer,40.45,3
+2347,Male,30-45,Yes,8,Yes,None,,Yes,,,One year,No,Physical,24.4,14
+4327,Female,18-30,No,7,Yes,4G,No,No,No,No,Month-to-month,Yes,Physical,69.9,15
+4132,Female,18-30,No,13,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,23.9,15
+6080,Male,18-30,No,1,No,3G,No,,No,No,Month-to-month,No,Physical,29.7,26
+5536,Male,18-30,No,9,No,3G,Sometimes,,No,No,Month-to-month,Yes,Auto-payment,34.7,22
+1360,Female,>60,No,13,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.05,29
+6186,Male,30-45,No,47,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,110.85,21
+2441,Female,>60,No,2,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Physical,81.5,2
+748,Male,30-45,No,48,Yes,None,,No,,,Two year,No,Physical,19.25,17
+1834,Male,>60,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,45.1,20
+3119,Female,45-60,No,32,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,85.95,23
+5567,Female,>60,No,49,Yes,4G,Sometimes,Yes,Yes,Yes,One year,No,Auto-payment,103,19
+2822,Female,30-45,Yes,41,Yes,3G,Sometimes,Yes,Yes,Yes,Month-to-month,No,Auto-payment,79.9,28
+4608,Male,18-30,No,55,Yes,3G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,77.8,4
+1376,Male,18-30,No,5,Yes,,Major User,No,No,Yes,One year,Yes,Physical,70,26
+461,Female,30-45,No,24,Yes,3G,Major User,No,No,No,Month-to-month,Yes,Auto-payment,69.45,4
+672,Female,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,75.05,15
+2326,Female,30-45,No,72,Yes,4G,Major User,Yes,Yes,Yes,One year,No,Auto-payment,109.15,5
+2647,Female,18-30,No,2,Yes,None,,No,,,Month-to-month,Yes,Physical,20,10
+2346,Female,30-45,Yes,71,Yes,4G,Sometimes,Yes,No,Yes,Two year,Yes,Auto-payment,95.75,16
+1367,Male,45-60,No,61,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,82.15,18
+2493,Female,30-45,No,6,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,90.75,13
+6348,Female,18-30,No,26,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,69.05,14
+3268,Male,30-45,Yes,24,Yes,3G,Major User,Yes,No,No,One year,No,Physical,74.8,16
+3326,Male,>60,No,38,Yes,3G,Sometimes,No,Yes,Yes,One year,Yes,Auto-payment,70.15,29
+1492,Male,>60,No,19,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,88.2,23
+3104,Male,>60,No,9,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.05,13
+2972,Male,30-45,Yes,72,No,,Major User,,Yes,Yes,Two year,Yes,Auto-payment,65.25,16
+1465,Male,30-45,Yes,1,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,74.6,10
+1886,Male,30-45,Yes,67,Yes,3G,No,No,Yes,Yes,Two year,Yes,Auto-payment,60.4,999
+232,Male,18-30,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Physical,84.6,20
+4180,Female,>60,No,2,No,3G,No,,No,No,Month-to-month,No,Online Transfer,24.35,22
+6111,Female,18-30,No,40,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Auto-payment,83.85,5
+6166,Female,30-45,Yes,31,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,104.2,23
+3415,Female,30-45,Yes,68,Yes,4G,Sometimes,Yes,No,No,One year,Yes,Online Transfer,83,19
+6416,Male,18-30,No,67,No,3G,Sometimes,,Yes,No,Two year,No,Online Transfer,43.9,19
+6211,Female,30-45,Yes,5,Yes,4G,Sometimes,No,Yes,No,Month-to-month,Yes,Online Transfer,85.75,26
+6378,Male,30-45,Yes,13,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,84.05,22
+1193,Female,18-30,No,47,Yes,,Major User,No,Yes,Yes,Two year,No,Physical,74.45,13
+5123,Female,>60,No,15,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,75.3,22
+5575,Male,30-45,Yes,70,Yes,3G,Sometimes,Yes,Yes,Yes,One year,No,Auto-payment,78.35,16
+4336,Female,>60,No,72,Yes,4G,Major User,Yes,Yes,No,Two year,Yes,Auto-payment,110.1,9
+4546,Female,30-45,Yes,12,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,84.5,21
+950,Male,>60,No,2,Yes,3G,No,No,No,No,Month-to-month,No,Physical,44.95,26
+3044,Female,18-30,No,1,Yes,,No,No,No,No,Month-to-month,Yes,Physical,45.4,15
+6077,Female,30-45,No,62,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Physical,113.95,10
+250,Female,30-45,No,51,Yes,4G,Sometimes,No,No,Yes,One year,Yes,Online Transfer,93.5,999
+1120,Male,18-30,No,20,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,70.55,10
+4323,Female,18-30,No,32,Yes,4G,Sometimes,Yes,No,No,One year,No,Online Transfer,84.05,27
+2175,Female,18-30,No,30,Yes,4G,Sometimes,No,Yes,No,Month-to-month,No,Online Transfer,85.15,27
+4427,Female,18-30,No,49,Yes,4G,Major User,No,Yes,Yes,Two year,No,Auto-payment,100.65,14
+7006,Male,18-30,No,40,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,104.5,18
+238,Female,>60,No,11,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,95,19
+2392,Male,18-30,No,20,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,90.7,6
+1348,Male,30-45,No,10,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.95,23
+5051,Male,18-30,No,56,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Physical,105.35,17
+2704,Female,30-45,Yes,53,Yes,3G,Sometimes,No,No,Yes,One year,No,Auto-payment,60.6,10
+1534,Female,30-45,Yes,69,Yes,None,,No,,,Two year,No,Auto-payment,19.8,18
+132,Male,18-30,No,67,Yes,3G,No,No,Yes,No,Two year,No,Auto-payment,50.55,17
+3574,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.35,9
+6346,Male,45-60,Yes,1,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Auto-payment,49.25,17
+1036,Male,30-45,Yes,68,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,114.7,15
+5099,Female,18-30,Yes,11,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.1,18
+4465,Male,18-30,No,31,No,3G,Major User,,No,Yes,One year,Yes,Online Transfer,50.05,19
+3773,Female,18-30,No,1,No,,No,,No,No,Month-to-month,No,Physical,25.2,24
+3132,Male,18-30,No,1,Yes,4G,No,No,Yes,No,Month-to-month,Yes,Physical,74.3,4
+6442,Female,30-45,Yes,67,Yes,3G,No,No,No,No,One year,No,Auto-payment,50.55,15
+855,Female,18-30,Yes,62,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,100.15,25
+5322,Female,30-45,No,26,Yes,3G,Major User,No,Yes,Yes,Month-to-month,No,Auto-payment,81.9,13
+4109,Male,18-30,No,2,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,25.05,17
+809,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.55,15
+2741,Male,>60,No,5,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,89.5,22
+2318,Female,30-45,Yes,71,Yes,4G,Sometimes,Yes,No,Yes,Two year,No,Auto-payment,100.5,6
+832,Female,30-45,Yes,70,Yes,3G,Sometimes,No,Yes,Yes,One year,No,Auto-payment,74.1,2
+1288,Male,18-30,No,64,Yes,None,,No,,,Two year,No,Physical,19.55,9
+4539,Male,30-45,Yes,67,Yes,3G,Major User,Yes,No,Yes,Two year,Yes,Online Transfer,79.7,20
+869,Male,18-30,Yes,3,Yes,None,,Yes,,,Two year,Yes,Physical,26.4,14
+5101,Male,18-30,No,10000,Yes,4G,Sometimes,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,106.65,11
+6361,Female,18-30,No,7,Yes,3G,Sometimes,No,Yes,Yes,Month-to-month,No,Auto-payment,62.8,3
+2185,Male,30-45,Yes,24,Yes,3G,No,Yes,No,No,Month-to-month,No,Online Transfer,54.75,16
+6020,Female,30-45,Yes,34,No,3G,Major User,,Yes,Yes,One year,No,Physical,61.25,4
+53,Female,45-60,No,8,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,80.65,28
+4387,Male,18-30,Yes,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.25,10
+1312,Male,18-30,No,48,Yes,3G,Sometimes,Yes,Yes,No,One year,Yes,Auto-payment,70.95,3
+4024,Female,18-30,No,7,No,,No,,No,No,Month-to-month,No,Auto-payment,25.05,11
+5478,Male,30-45,No,52,Yes,4G,Major User,No,Yes,Yes,Two year,Yes,Online Transfer,106.3,16
+2426,Female,30-45,No,17,No,3G,No,,No,Yes,Month-to-month,Yes,Auto-payment,35.65,6
+1243,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,45.3,23
+7020,Male,30-45,Yes,12,Yes,,,No,,,Month-to-month,Yes,Online Transfer,19.2,999
+5187,Female,>60,No,41,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,104.4,13
+1313,Male,30-45,No,47,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,109.55,17
+5727,Female,30-45,Yes,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,110.2,8
+2511,Male,45-60,No,29,Yes,4G,Sometimes,No,No,Yes,One year,No,Auto-payment,90.1,10
+6438,Male,>60,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.4,19
+906,Male,18-30,No,4,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,56.4,13
+6449,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.55,4
+517,Female,45-60,No,5,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,70.05,5
+2442,Male,>60,No,7,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.8,23
+5932,Male,30-45,No,5,Yes,,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,94.45,17
+2452,Male,>60,No,15,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,74.2,20
+6855,Female,18-30,No,42,Yes,3G,Sometimes,No,Yes,No,One year,Yes,Physical,67.7,14
+5591,Male,18-30,No,4,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,88.45,28
+3206,Female,18-30,No,6,Yes,None,,No,,,Month-to-month,No,Physical,20,8
+1287,Female,30-45,Yes,30,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,107.5,7
+4272,Male,30-45,No,56,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.15,17
+6404,Male,18-30,No,52,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,109.3,15
+5038,Female,18-30,No,10,Yes,,,No,,,One year,Yes,Physical,19.3,8
+5880,Male,18-30,No,3,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,29.6,24
+2130,Male,18-30,No,51,Yes,4G,Sometimes,Yes,No,No,One year,Yes,Online Transfer,94.8,16
+142,Female,30-45,No,61,Yes,4G,Major User,Yes,No,No,Two year,Yes,Auto-payment,101.05,16
+96,Male,30-45,Yes,71,Yes,,No,Yes,Yes,No,One year,Yes,Auto-payment,66.85,10
+2767,Female,18-30,Yes,46,Yes,4G,No,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,84.8,16
+6501,Female,30-45,No,67,Yes,,Major User,Yes,No,Yes,One year,Yes,Auto-payment,105.7,18
+1037,Female,18-30,No,13,No,3G,Major User,,No,Yes,Month-to-month,No,Online Transfer,49.15,3
+506,Male,18-30,Yes,11,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Physical,78,5
+5393,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.6,29
+253,Male,18-30,Yes,32,Yes,3G,Major User,Yes,Yes,Yes,One year,No,Auto-payment,83.7,13
+4440,Male,18-30,No,43,Yes,3G,Sometimes,No,No,No,Two year,Yes,Online Transfer,60,2
+6680,Female,18-30,Yes,48,Yes,4G,Sometimes,No,Yes,Yes,Two year,Yes,Physical,95.5,26
+842,Female,30-45,Yes,12,Yes,None,,No,,,One year,No,Auto-payment,19.8,23
+1216,Male,30-45,Yes,54,Yes,None,,No,,,Two year,No,Auto-payment,20.4,17
+6255,Male,45-60,No,69,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Physical,110.55,7
+4723,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,74.35,21
+5070,Male,18-30,Yes,35,Yes,4G,Sometimes,No,No,Yes,One year,Yes,Online Transfer,85.15,29
+4291,Female,30-45,Yes,64,Yes,4G,Major User,Yes,Yes,No,Two year,No,Auto-payment,2000,7
+93,Female,18-30,No,65,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,111.05,10
+677,Female,18-30,No,10000,No,3G,Sometimes,,No,No,Month-to-month,Yes,Online Transfer,34.7,28
+6205,Male,30-45,No,42,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,95.25,26
+4858,Male,30-45,Yes,57,Yes,3G,No,No,Yes,No,One year,No,Physical,59.6,8
+4831,Female,18-30,No,18,No,3G,No,,Yes,No,One year,Yes,Physical,40.2,6
+4087,Female,18-30,No,10,Yes,None,,No,,,Month-to-month,Yes,Physical,20.9,9
+3943,Male,>60,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,44,18
+4582,Male,30-45,Yes,70,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,90.15,17
+1248,Female,18-30,No,11,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,No,Online Transfer,90.15,26
+6645,Female,18-30,No,2,Yes,None,,No,,,Month-to-month,No,Physical,20.1,4
+553,Female,30-45,Yes,23,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.6,4
+5540,Female,30-45,Yes,1,Yes,None,,No,,,Month-to-month,No,Physical,20.55,19
+750,Female,18-30,No,27,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,56.7,16
+6919,Male,18-30,No,54,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Auto-payment,89.4,12
+1867,Female,18-30,No,3,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,83.75,29
+6520,Male,18-30,No,2,Yes,,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,85.85,26
+2380,Male,30-45,Yes,60,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Auto-payment,103.75,15
+2910,Female,30-45,Yes,35,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.4,4
+3850,Male,30-45,No,51,Yes,3G,Major User,No,Yes,Yes,Two year,Yes,Auto-payment,83.25,15
+6746,Female,30-45,Yes,4,Yes,3G,No,No,Yes,No,Month-to-month,No,Physical,56.5,16
+4433,Female,18-30,No,4,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.65,10
+3911,Male,18-30,No,18,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,49.4,25
+2281,Female,18-30,No,16,Yes,3G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,65.2,19
+1452,Male,>60,No,52,No,3G,Major User,,No,No,Month-to-month,Yes,Auto-payment,48.8,18
+2195,Female,30-45,No,28,Yes,None,,Yes,,,One year,No,Physical,25.55,13
+1854,Male,>60,No,1,No,3G,Sometimes,,No,Yes,Month-to-month,Yes,Online Transfer,43.3,25
+5037,Female,18-30,No,2,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Physical,79.65,26
+647,Male,30-45,Yes,50,Yes,3G,Sometimes,Yes,Yes,Yes,One year,Yes,Online Transfer,69.65,4
+5916,Female,18-30,No,72,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,112.75,12
+2323,Female,18-30,No,29,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,98.6,26
+5158,Male,18-30,No,72,Yes,None,,Yes,,,Two year,No,Auto-payment,24.75,15
+5947,Female,30-45,Yes,33,Yes,None,,Yes,,,Two year,Yes,Physical,2000,29
+5149,Female,18-30,No,62,Yes,None,,No,,,Two year,Yes,Auto-payment,19.2,9
+177,Female,>60,No,7,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,76.45,15
+4848,Female,18-30,No,5,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Physical,93.9,27
+4873,Female,18-30,No,7,Yes,None,,No,,,Month-to-month,No,Physical,19.3,10
+4292,Female,>60,No,31,Yes,,No,Yes,No,No,Month-to-month,Yes,Online Transfer,73.9,20
+6808,Male,18-30,No,39,Yes,4G,Major User,No,No,Yes,Two year,Yes,Online Transfer,100.45,13
+6060,Female,>60,No,8,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,87.1,6
+414,Female,45-60,No,48,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,70.65,11
+6955,Female,18-30,No,12,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,45.05,10
+363,Female,18-30,No,47,Yes,None,,No,,,Two year,Yes,Physical,20.55,3
+5991,Male,18-30,No,16,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,94.25,17
+1555,Female,30-45,No,53,Yes,4G,Major User,No,No,Yes,One year,Yes,Auto-payment,106.1,26
+6168,Male,18-30,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.25,23
+1183,Female,30-45,No,53,Yes,,Major User,No,Yes,No,One year,Yes,Online Transfer,2000,18
+2131,Male,30-45,Yes,42,No,3G,Sometimes,,Yes,Yes,Two year,No,Auto-payment,48.15,3
+927,Female,18-30,No,13,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,81.15,28
+1822,Female,18-30,Yes,31,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,86.55,19
+3998,Male,30-45,Yes,42,Yes,3G,No,No,No,No,Month-to-month,No,Physical,54.5,11
+2486,Female,30-45,Yes,28,Yes,4G,Sometimes,Yes,Yes,No,One year,Yes,Online Transfer,90.45,16
+4742,Male,18-30,No,72,Yes,None,,No,,,Two year,Yes,Physical,20.8,11
+848,Male,30-45,No,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,92,5
+4791,Male,30-45,No,3,Yes,None,,No,,,Month-to-month,No,Auto-payment,20,10
+383,Male,18-30,No,1,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,90.85,18
+6202,Male,30-45,Yes,21,Yes,3G,Sometimes,Yes,Yes,No,One year,No,Physical,77.5,28
+6762,Male,18-30,No,35,Yes,3G,Sometimes,No,No,No,Month-to-month,No,Physical,55,21
+773,Female,30-45,No,5,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Physical,88.9,19
+2980,Female,18-30,No,72,Yes,None,,Yes,,,Two year,No,Auto-payment,25.45,6
+4398,Male,30-45,Yes,70,Yes,,Sometimes,Yes,No,Yes,Two year,No,Auto-payment,68.95,5
+4149,Male,30-45,No,71,No,3G,Major User,,No,No,Two year,No,Online Transfer,49.35,26
+5973,Male,18-30,No,64,Yes,4G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,104.4,14
+5154,Female,30-45,Yes,17,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,104.2,16
+4386,Male,30-45,Yes,55,Yes,3G,No,No,Yes,No,Two year,No,Auto-payment,57.55,24
+1321,Male,30-45,Yes,60,Yes,3G,No,No,Yes,Yes,One year,Yes,Auto-payment,65.85,18
+817,Female,30-45,Yes,55,Yes,4G,Major User,No,Yes,Yes,One year,Yes,Auto-payment,103.7,12
+57,Male,45-60,Yes,66,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,108.45,13
+5866,Male,18-30,No,3,Yes,None,,No,,,Month-to-month,Yes,Physical,19.65,5
+876,Female,18-30,No,15,Yes,4G,Major User,No,Yes,Yes,Month-to-month,No,Online Transfer,105.1,22
+634,Female,18-30,No,40,No,,Major User,,Yes,No,One year,Yes,Auto-payment,54.55,4
+4198,Female,30-45,Yes,52,Yes,None,,Yes,,,Two year,No,Physical,23.05,17
+3825,Female,30-45,Yes,52,Yes,None,,No,,,Two year,No,Physical,19.35,17
+5760,Male,45-60,No,10000,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Online Transfer,91.55,7
+304,Male,18-30,Yes,38,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,81.85,12
+5412,Male,45-60,No,61,Yes,4G,No,Yes,Yes,No,One year,Yes,Auto-payment,85.55,15
+5342,Female,18-30,No,37,Yes,3G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,64.75,25
+4597,Female,18-30,No,6,Yes,4G,Major User,No,Yes,Yes,Month-to-month,Yes,Physical,99.95,26
+5739,Male,45-60,No,67,Yes,4G,Major User,Yes,Yes,No,Two year,No,Auto-payment,102.9,11
+3897,Female,30-45,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,115.5,12
+5594,Female,30-45,Yes,10000,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,83.75,4
+3111,Male,30-45,Yes,72,Yes,4G,Major User,Yes,No,Yes,Two year,Yes,Online Transfer,103.4,24
+1511,Female,30-45,Yes,67,Yes,None,,No,,,Two year,Yes,Auto-payment,2000,19
+6605,Male,>60,No,66,Yes,4G,Major User,Yes,Yes,Yes,One year,No,Auto-payment,110.9,26
+4216,Male,18-30,No,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,92,7
+4700,Female,18-30,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,45.85,5
+1007,Female,18-30,No,2,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,68.95,16
+5050,Male,30-45,No,66,Yes,4G,Major User,Yes,No,Yes,Two year,Yes,Auto-payment,106.05,21
+6289,Male,18-30,No,67,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,116.2,17
+1663,Male,30-45,No,10000,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.65,25
+4892,Male,>60,No,20,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.35,9
+3654,Female,30-45,No,28,Yes,,Sometimes,No,No,Yes,Month-to-month,No,Auto-payment,89.9,16
+1173,Male,18-30,No,1,Yes,,,No,,,Month-to-month,Yes,Online Transfer,19.85,24
+5438,Male,30-45,No,9,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,79.9,21
+2443,Female,30-45,Yes,72,Yes,4G,Major User,Yes,No,Yes,Two year,No,Auto-payment,109.55,19
+6786,Female,18-30,No,11,Yes,3G,No,No,No,No,Month-to-month,No,Auto-payment,48.55,21
+1231,Male,18-30,No,20,Yes,,Sometimes,No,No,Yes,Month-to-month,No,Auto-payment,64.4,14
+5326,Male,30-45,Yes,15,Yes,None,,No,,,Month-to-month,Yes,Online Transfer,20,17
+6791,Male,18-30,No,19,No,3G,Sometimes,,No,Yes,Month-to-month,Yes,Online Transfer,39.65,22
+2616,Male,30-45,Yes,10000,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,44.6,16
+1447,Male,18-30,Yes,4,Yes,4G,No,Yes,Yes,No,Month-to-month,No,Auto-payment,80.8,24
+936,Female,30-45,Yes,0,Yes,,Major User,No,No,Yes,Two year,No,Physical,80.85,3
+1593,Male,30-45,Yes,4,Yes,None,,No,,,Month-to-month,No,Physical,18.85,10
+5758,Male,18-30,No,22,Yes,None,,No,,,One year,No,Physical,20.3,2
+6586,Female,30-45,Yes,45,Yes,None,,Yes,,,Two year,Yes,Auto-payment,24.65,6
+4443,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Physical,44.75,10
+5169,Male,18-30,Yes,15,Yes,3G,Sometimes,No,No,Yes,One year,No,Physical,64.85,5
+6810,Male,18-30,No,15,No,3G,No,,Yes,No,Month-to-month,Yes,Online Transfer,29.7,28
+1701,Female,30-45,Yes,66,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Auto-payment,102.45,25
+6617,Female,18-30,No,48,Yes,3G,Major User,Yes,No,Yes,One year,Yes,Auto-payment,83.45,18
+7024,Male,30-45,No,44,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,84.8,4
+3490,Male,30-45,Yes,8,Yes,3G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,51.05,29
+1205,Male,18-30,No,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.9,18
+1416,Female,30-45,Yes,58,No,3G,Major User,,Yes,Yes,Two year,Yes,Auto-payment,55.5,6
+179,Male,30-45,No,61,Yes,None,,No,,,One year,Yes,Auto-payment,20.55,5
+1088,Male,45-60,No,17,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,100.45,28
+2884,Female,45-60,Yes,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,90.15,11
+4757,Male,18-30,No,1,Yes,3G,No,Yes,Yes,No,Month-to-month,No,Physical,60.1,17
+6138,Male,45-60,No,67,Yes,4G,No,Yes,No,No,Month-to-month,No,Auto-payment,83.85,8
+130,Female,18-30,No,13,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.95,2
+2045,Female,18-30,No,69,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,110.5,18
+507,Male,30-45,No,2,Yes,4G,Major User,No,Yes,No,Month-to-month,Yes,Online Transfer,94.2,26
+5798,Female,18-30,No,5,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.2,29
+6035,Male,45-60,No,66,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Online Transfer,110.85,24
+6601,Male,45-60,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,109.7,17
+4696,Female,18-30,No,59,Yes,4G,Major User,No,No,Yes,Two year,No,Online Transfer,95.8,5
+4959,Female,30-45,Yes,1,Yes,None,,No,,,Month-to-month,Yes,Auto-payment,20.15,19
+5071,Male,30-45,No,1,Yes,4G,No,No,No,Yes,Month-to-month,No,Auto-payment,75.35,13
+4525,Male,18-30,No,32,Yes,,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,93.4,4
+4872,Female,30-45,No,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,84.9,10
+6250,Female,30-45,No,69,Yes,4G,Major User,Yes,No,No,Two year,No,Auto-payment,99.15,10
+2906,Female,30-45,Yes,6,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,48.8,4
+4234,Female,18-30,No,16,Yes,None,,No,,,One year,No,Physical,19.05,11
+5275,Male,18-30,No,11,Yes,,No,Yes,No,Yes,Month-to-month,No,Online Transfer,53.75,23
+1507,Male,18-30,No,54,Yes,,,No,,,Two year,No,Auto-payment,19.65,10
+4962,Female,30-45,Yes,17,Yes,3G,Major User,No,No,No,Month-to-month,No,Physical,74.55,3
+3807,Male,30-45,No,24,Yes,,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,104.65,18
+2191,Female,>60,No,1,Yes,,Major User,No,No,No,Month-to-month,Yes,Online Transfer,91.3,18
+3486,Male,18-30,No,47,Yes,4G,Sometimes,Yes,No,No,One year,No,Auto-payment,94.8,15
+4771,Female,18-30,No,3,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.4,15
+7003,Male,18-30,No,26,No,3G,No,,Yes,Yes,Month-to-month,No,Online Transfer,35.75,15
+594,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Physical,45.6,10
+2142,Female,18-30,Yes,21,Yes,3G,Sometimes,No,No,Yes,One year,No,Physical,64.85,3
+3835,Female,30-45,Yes,24,Yes,None,,No,,,One year,No,Physical,19.9,15
+2379,Male,45-60,No,32,Yes,4G,Major User,Yes,No,Yes,Month-to-month,No,Auto-payment,106.35,28
+3942,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,42.9,16
+1063,Male,18-30,No,10,Yes,3G,Sometimes,No,Yes,No,Month-to-month,No,Auto-payment,62.25,9
+3229,Female,18-30,No,12,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.2,28
+1639,Male,>60,No,17,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,45.05,21
+5877,Female,18-30,No,53,Yes,,Major User,Yes,No,Yes,One year,Yes,Auto-payment,106.95,18
+1513,Female,>60,No,1,No,3G,No,,No,No,Month-to-month,Yes,Physical,25.8,20
+1110,Male,18-30,No,60,No,3G,No,,No,Yes,Two year,No,Auto-payment,39.6,14
+715,Male,18-30,No,46,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,89.15,6
+3612,Male,18-30,No,21,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,73.7,18
+335,Male,30-45,Yes,68,Yes,,Sometimes,Yes,Yes,Yes,One year,Yes,Auto-payment,75.8,24
+4915,Female,30-45,Yes,22,No,3G,Sometimes,,No,No,Month-to-month,No,Online Transfer,39.2,7
+18,Female,30-45,Yes,10,Yes,3G,No,No,Yes,Yes,Month-to-month,No,Auto-payment,55.2,26
+5825,Male,45-60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.3,18
+395,Female,18-30,No,66,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,90.05,12
+3303,Female,18-30,No,4,Yes,4G,No,Yes,No,No,Month-to-month,No,Auto-payment,77.95,20
+2851,Female,30-45,Yes,64,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Physical,90.6,4
+524,Male,30-45,No,34,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,100.05,28
+1626,Male,18-30,No,20,Yes,3G,No,Yes,Yes,No,Month-to-month,No,Auto-payment,59.2,13
+1163,Female,18-30,No,12,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,89.75,22
+4997,Male,>60,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,44.7,15
+5519,Male,30-45,No,1,Yes,3G,No,No,No,Yes,Month-to-month,No,Physical,55.7,10
+3976,Female,18-30,No,4,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,24.45,18
+5067,Female,30-45,Yes,30,Yes,3G,Sometimes,No,Yes,No,Month-to-month,No,Auto-payment,66.3,11
+170,Male,30-45,No,43,Yes,4G,No,No,Yes,Yes,One year,Yes,Auto-payment,84.25,16
+110,Male,30-45,No,55,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,96.75,25
+489,Male,18-30,Yes,1,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.35,27
+5103,Female,30-45,Yes,28,Yes,4G,Sometimes,No,No,No,One year,Yes,Auto-payment,82.85,5
+6961,Female,30-45,No,24,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,75.4,22
+6654,Female,30-45,No,7,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,86.5,21
+3741,Male,30-45,Yes,10000,Yes,,Sometimes,Yes,Yes,Yes,Two year,Yes,Auto-payment,104.9,10
+2949,Female,18-30,No,56,Yes,3G,No,No,Yes,Yes,One year,Yes,Auto-payment,60.25,2
+946,Male,30-45,Yes,4,Yes,None,,No,,,Month-to-month,Yes,Physical,20.5,5
+6590,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.85,28
+983,Male,18-30,No,1,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,86.6,20
+4310,Male,18-30,No,72,No,3G,Major User,,Yes,Yes,Two year,Yes,Auto-payment,65.6,14
+5513,Female,>60,No,67,Yes,4G,Sometimes,No,Yes,No,Two year,Yes,Auto-payment,92.45,2
+1538,Male,18-30,No,8,Yes,4G,Major User,Yes,No,No,Month-to-month,No,Online Transfer,100.85,28
+5104,Female,30-45,No,18,Yes,None,,No,,,Two year,No,Physical,20.1,12
+5572,Male,30-45,No,70,Yes,,Sometimes,Yes,Yes,Yes,Two year,Yes,Auto-payment,74.8,16
+48,Male,18-30,No,52,Yes,3G,Major User,Yes,Yes,No,Two year,Yes,Auto-payment,79.75,2
+5203,Male,18-30,Yes,3,Yes,3G,Major User,No,Yes,No,Month-to-month,No,Physical,70.7,18
+7013,Female,18-30,No,40,Yes,,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,93.4,5
+80,Female,18-30,Yes,1,Yes,,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.35,999
+3192,Male,18-30,No,58,Yes,None,,No,,,Two year,Yes,Auto-payment,19.15,11
+1514,Female,18-30,Yes,63,Yes,,,No,,,Two year,No,Auto-payment,19.5,16
+2775,Male,45-60,No,53,Yes,3G,No,Yes,Yes,No,One year,Yes,Online Transfer,60.05,27
+2706,Male,30-45,No,2,Yes,4G,No,No,No,Yes,Month-to-month,No,Online Transfer,76.4,24
+1795,Female,30-45,No,19,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Physical,89.65,18
+5305,Female,30-45,No,43,Yes,3G,Major User,No,Yes,Yes,Two year,Yes,Online Transfer,78.8,6
+5569,Female,45-60,No,3,Yes,4G,Sometimes,No,Yes,No,Month-to-month,Yes,Physical,83.9,25
+6967,Male,>60,No,25,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,89.5,21
+5041,Male,30-45,No,20,Yes,None,,No,,,One year,No,Physical,20.65,8
+914,Male,30-45,Yes,72,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.2,5
+5302,Female,30-45,Yes,10,Yes,3G,Sometimes,No,Yes,No,Month-to-month,Yes,Online Transfer,65.5,4
+42,Female,30-45,Yes,17,Yes,None,,No,,,One year,No,Physical,20.75,9
+3755,Male,18-30,No,4,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,76.05,27
+4124,Female,45-60,No,19,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.95,13
+4039,Male,18-30,No,7,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94.1,10
+2018,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,45.3,19
+6838,Male,18-30,No,13,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Physical,99,24
+1006,Female,18-30,No,18,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Online Transfer,90.1,24
+394,Female,45-60,No,42,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.05,4
+2917,Male,30-45,Yes,68,Yes,None,,No,,,Two year,Yes,Auto-payment,19.95,9
+1966,Male,>60,No,24,Yes,3G,No,Yes,No,No,Month-to-month,No,Auto-payment,54.8,13
+3428,Male,45-60,No,51,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,93.8,24
+1787,Female,45-60,No,42,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Auto-payment,105.2,13
+4849,Male,18-30,No,41,No,3G,Major User,,No,Yes,One year,Yes,Online Transfer,51.35,15
+1673,Female,30-45,No,41,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Auto-payment,113.6,19
+5005,Female,30-45,No,39,Yes,4G,Major User,No,Yes,Yes,One year,Yes,Auto-payment,104.7,27
+3281,Male,30-45,No,49,Yes,,Major User,No,No,No,Two year,Yes,Online Transfer,94.8,2
+3254,Male,>60,No,17,Yes,,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,101.8,9
+3581,Male,30-45,Yes,63,Yes,3G,Sometimes,No,Yes,Yes,Two year,No,Auto-payment,74.5,8
+534,Female,18-30,No,1,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85,15
+3927,Male,30-45,No,3,Yes,None,,No,,,Month-to-month,Yes,Auto-payment,20.55,18
+280,Female,18-30,No,6,Yes,3G,No,No,No,No,Month-to-month,No,Physical,55.15,8
+3349,Female,30-45,No,11,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,99.5,28
+3864,Female,18-30,No,30,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,100.2,18
+1541,Male,18-30,No,72,Yes,,,No,,,Two year,No,Auto-payment,19.85,10
+2290,Female,30-45,No,13,No,3G,Major User,,No,Yes,Month-to-month,Yes,Auto-payment,48.75,15
+4040,Male,30-45,Yes,59,No,3G,No,,No,Yes,One year,No,Physical,34.8,9
+1101,Female,30-45,Yes,20,Yes,None,,No,,,Month-to-month,No,Online Transfer,20,9
+5129,Female,18-30,No,13,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Physical,81.9,13
+2074,Female,>60,No,43,Yes,4G,Major User,No,Yes,No,Month-to-month,Yes,Auto-payment,108.15,28
+3246,Male,18-30,No,3,Yes,3G,Sometimes,No,No,No,Month-to-month,No,Physical,55.15,17
+6319,Male,45-60,No,54,No,3G,No,,No,No,Month-to-month,Yes,Auto-payment,24.95,15
+6357,Male,30-45,No,65,Yes,4G,No,Yes,No,Yes,One year,No,Online Transfer,89.75,16
+3029,Male,30-45,Yes,23,Yes,3G,No,Yes,No,No,One year,Yes,Auto-payment,48.35,28
+3058,Female,18-30,Yes,17,Yes,3G,No,Yes,No,Yes,One year,Yes,Physical,55.85,18
+762,Male,30-45,No,3,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.3,20
+840,Female,>60,No,55,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,100,18
+5428,Female,30-45,No,9,Yes,,Major User,No,No,No,Month-to-month,No,Online Transfer,89.45,28
+51,Female,18-30,No,15,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Auto-payment,99.1,19
+1499,Male,45-60,No,64,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Online Transfer,94.25,9
+1951,Male,30-45,No,14,Yes,3G,No,No,No,Yes,Month-to-month,No,Auto-payment,50.2,10
+6377,Male,18-30,No,1,No,3G,Sometimes,,Yes,No,Month-to-month,Yes,Physical,44.65,18
+317,Female,30-45,Yes,38,Yes,3G,Major User,No,Yes,No,One year,No,Auto-payment,80.3,21
+878,Female,18-30,No,60,Yes,3G,No,Yes,Yes,Yes,One year,No,Online Transfer,64.75,11
+3401,Female,18-30,No,56,Yes,None,,No,,,Two year,Yes,Auto-payment,19.55,11
+4852,Male,>60,No,69,Yes,None,,No,,,Two year,No,Auto-payment,20.3,15
+4513,Female,45-60,Yes,72,Yes,,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,92.45,17
+6597,Female,18-30,No,7,Yes,3G,Major User,No,Yes,No,Month-to-month,Yes,Auto-payment,2000,24
+2259,Female,18-30,No,8,Yes,None,,No,,,Two year,No,Physical,20.85,9
+5869,Female,30-45,Yes,44,Yes,4G,Sometimes,Yes,No,Yes,One year,No,Online Transfer,94.4,14
+5576,Female,18-30,No,1,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Physical,53.55,25
+4767,Male,30-45,Yes,1,Yes,None,,No,,,One year,No,Auto-payment,19.85,2
+2799,Male,18-30,Yes,55,Yes,None,,No,,,One year,No,Auto-payment,19.1,12
+2013,Female,18-30,Yes,31,Yes,,,No,,,One year,No,Auto-payment,20.1,13
+5817,Male,18-30,Yes,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,44.4,17
+2948,Male,45-60,No,41,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,99.8,24
+6943,Female,30-45,Yes,1,No,3G,No,,No,No,Month-to-month,No,Auto-payment,30.5,25
+2219,Male,>60,No,20,Yes,4G,Major User,No,No,No,Month-to-month,No,Online Transfer,89.95,5
+245,Male,>60,No,4,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,75.35,9
+6408,Male,18-30,No,69,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,106.5,27
+3983,Male,18-30,No,1,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,24.25,18
+326,Female,45-60,No,11,Yes,4G,Sometimes,No,Yes,No,Month-to-month,Yes,Online Transfer,82.9,18
+5978,Female,18-30,No,46,Yes,4G,No,Yes,No,No,Month-to-month,No,Physical,84.25,6
+1589,Female,>60,No,7,Yes,3G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,64.95,16
+2004,Male,18-30,No,24,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Physical,89.85,26
+6608,Male,18-30,No,22,Yes,,No,No,Yes,No,One year,Yes,Auto-payment,55.15,27
+771,Male,18-30,No,15,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,93.35,16
+4452,Female,30-45,No,70,Yes,3G,Major User,No,Yes,Yes,Two year,No,Auto-payment,86.45,5
+1263,Female,45-60,No,68,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,89.6,20
+543,Male,18-30,No,10,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,86.05,29
+418,Female,30-45,Yes,22,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,83.3,18
+1440,Male,30-45,Yes,8,Yes,None,,No,,,One year,No,Auto-payment,19.9,9
+965,Male,>60,No,8,Yes,4G,Major User,No,Yes,No,Month-to-month,No,Auto-payment,100.3,18
+2989,Male,18-30,Yes,1,Yes,None,,No,,,Month-to-month,Yes,Physical,19.2,3
+1946,Male,30-45,Yes,55,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,90.4,10
+646,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,45.7,25
+2257,Female,18-30,No,60,Yes,3G,Major User,Yes,Yes,Yes,One year,No,Auto-payment,80.55,18
+4713,Male,30-45,Yes,58,Yes,4G,Major User,Yes,Yes,Yes,One year,Yes,Auto-payment,105.05,13
+1861,Female,18-30,No,10000,Yes,3G,No,No,No,No,Month-to-month,No,Physical,45.95,20
+1772,Male,18-30,No,2,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,79,27
+2022,Female,18-30,No,16,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,86.25,3
+439,Male,18-30,No,1,Yes,,No,No,Yes,Yes,Month-to-month,No,Physical,55.05,2
+3989,Female,18-30,Yes,8,No,3G,Sometimes,,No,No,Month-to-month,Yes,Online Transfer,38.5,15
+2377,Male,18-30,Yes,47,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,55.3,2
+4001,Male,30-45,Yes,45,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,109.75,6
+4273,Female,18-30,No,31,Yes,4G,No,Yes,Yes,No,Month-to-month,Yes,Auto-payment,79.85,26
+2370,Male,30-45,No,69,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,112.55,2
+596,Male,18-30,No,16,No,3G,Sometimes,,Yes,Yes,Two year,No,Physical,54.85,18
+829,Male,30-45,Yes,34,No,3G,Sometimes,,Yes,Yes,Month-to-month,Yes,Online Transfer,44.85,4
+4718,Female,30-45,No,20,Yes,None,,No,,,One year,Yes,Physical,20,7
+77,Female,30-45,Yes,8,Yes,3G,No,No,No,No,Month-to-month,No,Physical,54.65,17
+2021,Male,30-45,Yes,62,Yes,4G,Major User,No,Yes,Yes,Two year,No,Physical,108.15,16
+605,Male,30-45,No,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,86.65,5
+1375,Female,30-45,Yes,39,Yes,None,,No,,,Two year,Yes,Auto-payment,19.85,8
+2792,Female,18-30,No,15,Yes,3G,No,No,No,No,Month-to-month,No,Online Transfer,48.85,9
+6739,Male,18-30,No,4,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,55.9,9
+3350,Male,18-30,No,1,Yes,,No,No,No,No,Month-to-month,Yes,Physical,44.15,21
+2631,Male,45-60,No,7,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,99.25,21
+880,Male,18-30,No,10,Yes,4G,Major User,No,Yes,Yes,Month-to-month,Yes,Online Transfer,110.1,16
+1281,Female,18-30,No,36,Yes,None,,No,,,One year,Yes,Auto-payment,19.25,14
+1872,Female,30-45,Yes,41,Yes,None,,No,,,Two year,No,Auto-payment,19.7,18
+97,Male,18-30,No,5,Yes,None,,No,,,Month-to-month,No,Physical,21.05,18
+3511,Male,18-30,No,53,Yes,None,,Yes,,,Two year,No,Physical,24.6,9
+3265,Male,30-45,Yes,29,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.75,26
+2039,Male,18-30,No,22,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,79.35,26
+6728,Female,30-45,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,No,Online Transfer,115.15,4
+3652,Female,>60,No,1,No,3G,No,,No,No,Month-to-month,No,Online Transfer,25.25,25
+1383,Female,18-30,No,1,Yes,3G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,49.95,24
+3183,Male,45-60,No,3,No,3G,Sometimes,,No,No,Month-to-month,Yes,Physical,36.45,29
+4568,Male,18-30,No,26,Yes,4G,No,No,Yes,Yes,One year,Yes,Online Transfer,85.2,17
+150,Female,30-45,Yes,8,Yes,,Major User,No,Yes,No,Month-to-month,Yes,Online Transfer,68.55,15
+3000,Male,18-30,No,12,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.45,23
+6662,Female,18-30,No,47,No,3G,No,,Yes,No,One year,No,Auto-payment,39.65,7
+801,Female,18-30,No,10,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Online Transfer,98.5,29
+1095,Male,18-30,No,1,Yes,,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.55,18
+4079,Female,30-45,No,10,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,78.15,17
+6789,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,20.2,26
+1065,Female,18-30,No,23,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,90.05,22
+6841,Male,18-30,No,5,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,55.75,17
+1950,Male,30-45,No,65,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,91.85,23
+33,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.2,11
+2062,Female,18-30,No,66,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.15,9
+73,Male,30-45,Yes,62,Yes,None,,Yes,,,Two year,Yes,Auto-payment,24.25,19
+39,Female,18-30,No,11,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,97.85,16
+1939,Male,18-30,Yes,1,Yes,None,,No,,,Month-to-month,Yes,Physical,21.05,16
+6526,Male,18-30,Yes,49,Yes,4G,Major User,Yes,Yes,No,One year,Yes,Auto-payment,100.6,19
+4682,Female,>60,No,27,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Auto-payment,88.3,19
+511,Male,18-30,No,61,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,106.45,3
+3245,Female,30-45,Yes,23,Yes,4G,No,No,Yes,Yes,Month-to-month,No,Online Transfer,83.8,16
+2618,Male,30-45,Yes,25,Yes,,,No,,,One year,No,Online Transfer,19.9,14
+1926,Male,30-45,Yes,49,Yes,,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,99.8,19
+785,Female,>60,No,46,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,110,24
+4316,Male,18-30,No,69,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Physical,90.65,8
+2881,Female,30-45,No,31,Yes,,Sometimes,No,Yes,No,One year,Yes,Online Transfer,64,15
+3499,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,20.9,16
+1218,Male,18-30,No,24,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,90.55,27
+2662,Male,18-30,No,2,No,3G,Major User,,No,Yes,Month-to-month,Yes,Online Transfer,49.25,23
+2928,Male,30-45,Yes,68,Yes,,Sometimes,No,Yes,No,Two year,No,Auto-payment,95.1,17
+5718,Male,18-30,No,6,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,80.5,25
+3691,Female,30-45,No,40,Yes,3G,Sometimes,Yes,No,No,One year,No,Auto-payment,63.9,9
+3172,Male,18-30,Yes,25,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,95.9,17
+5564,Male,18-30,No,35,Yes,3G,No,Yes,No,No,Two year,No,Physical,55.25,13
+6012,Female,30-45,Yes,5,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,83.6,20
+185,Female,30-45,No,1,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,24.8,21
+3603,Male,18-30,No,2,Yes,3G,No,No,No,No,Month-to-month,No,Physical,2000,26
+2096,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Online Transfer,19.3,25
+2124,Male,30-45,No,5,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,24.95,27
+3723,Female,30-45,Yes,18,Yes,None,,No,,,Month-to-month,No,Physical,20.45,14
+7029,Female,>60,No,6,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,44.4,14
+3102,Female,18-30,No,5,Yes,3G,No,No,Yes,No,Month-to-month,No,Online Transfer,54.2,17
+6293,Male,18-30,Yes,21,Yes,None,,No,,,Two year,No,Physical,19.6,8
+5031,Male,30-45,Yes,9,Yes,4G,Major User,No,Yes,No,Month-to-month,Yes,Online Transfer,101.5,4
+3635,Female,30-45,No,72,Yes,None,,Yes,,,Two year,No,Online Transfer,24.55,3
+3908,Female,45-60,No,10000,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,116.05,16
+3423,Male,18-30,Yes,1,Yes,3G,No,No,No,No,Month-to-month,No,Physical,50.6,15
+13,Male,18-30,No,49,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Auto-payment,103.7,22
+3369,Female,>60,No,11,Yes,3G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,55.6,14
+3163,Male,>60,No,39,Yes,4G,Sometimes,Yes,No,No,Month-to-month,No,Online Transfer,90.7,14
+2731,Female,18-30,No,63,Yes,4G,Major User,Yes,No,Yes,Month-to-month,No,Auto-payment,108.25,7
+4556,Male,18-30,No,2,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,67.75,18
+6644,Male,30-45,No,61,Yes,4G,Major User,Yes,No,No,One year,Yes,Auto-payment,96.5,6
+1310,Female,30-45,No,34,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,97.65,16
+5558,Female,30-45,Yes,72,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,116.4,10
+3197,Female,30-45,Yes,22,Yes,3G,Major User,No,No,No,One year,Yes,Auto-payment,69.5,24
+2445,Female,30-45,Yes,27,Yes,4G,No,No,No,No,Month-to-month,No,Physical,74.4,4
+797,Female,30-45,Yes,20,Yes,,,Yes,,,Month-to-month,Yes,Auto-payment,25.55,3
+3687,Male,30-45,Yes,19,Yes,4G,Major User,No,Yes,No,One year,No,Auto-payment,100,16
+5982,Male,18-30,No,15,Yes,,,No,,,One year,No,Physical,19.8,3
+2351,Female,18-30,No,49,Yes,3G,No,No,Yes,Yes,Two year,No,Auto-payment,67.4,14
+6707,Female,45-60,No,72,Yes,None,,Yes,,,Two year,Yes,Auto-payment,25.7,16
+154,Female,30-45,Yes,6,Yes,None,,No,,,Month-to-month,No,Physical,19.7,9
+239,Male,18-30,No,16,Yes,None,,No,,,Two year,No,Physical,19.75,6
+1178,Male,18-30,No,15,Yes,4G,Major User,No,Yes,Yes,Month-to-month,Yes,Online Transfer,101.35,29
+6154,Female,30-45,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,109.2,9
+1181,Male,>60,No,21,Yes,3G,Sometimes,No,No,Yes,Month-to-month,Yes,Auto-payment,60.05,16
+3987,Female,18-30,No,11,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,76.5,20
+3868,Female,30-45,Yes,21,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,74.05,17
+6896,Female,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,No,Physical,43.95,16
+5725,Female,30-45,Yes,18,Yes,None,,Yes,,,Two year,Yes,Auto-payment,24.65,9
+171,Female,30-45,No,2,Yes,4G,Major User,Yes,Yes,Yes,Month-to-month,Yes,Online Transfer,104.4,22
+6903,Male,30-45,No,35,Yes,,Sometimes,Yes,Yes,No,One year,Yes,Online Transfer,69,2
+6816,Male,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.3,22
+4276,Female,18-30,No,2,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,49.6,18
+3726,Male,18-30,No,16,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Auto-payment,89.05,17
+4345,Male,30-45,Yes,69,Yes,None,,No,,,One year,Yes,Auto-payment,20.55,8
+1769,Male,30-45,No,71,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,93.25,6
+7008,Female,>60,No,3,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,75.05,25
+3918,Male,30-45,Yes,20,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,90.2,18
+5495,Male,18-30,No,11,Yes,4G,No,No,Yes,No,Month-to-month,Yes,Online Transfer,73.85,22
+3696,Female,30-45,No,6,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Online Transfer,49.15,19
+6929,Female,18-30,Yes,25,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.05,7
+5451,Female,30-45,No,71,Yes,4G,Sometimes,Yes,No,No,One year,No,Physical,95.65,6
+4598,Male,18-30,No,18,Yes,,No,Yes,No,No,Month-to-month,No,Physical,56.25,18
+5889,Male,45-60,No,59,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,50.25,15
+3458,Female,18-30,No,26,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Auto-payment,88.8,27
+3538,Male,30-45,Yes,71,Yes,4G,Sometimes,No,Yes,Yes,Two year,No,Auto-payment,100.2,4
+7009,Male,18-30,No,23,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,81,15
+5794,Male,45-60,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,109.75,5
+3551,Female,18-30,Yes,1,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,79.6,18
+4154,Male,18-30,No,6,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,74.9,16
+3772,Male,30-45,No,1,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,95,28
+6428,Female,18-30,No,6,Yes,,No,No,No,No,Month-to-month,Yes,Physical,69.25,21
+6861,Female,30-45,Yes,14,Yes,4G,Sometimes,Yes,Yes,No,Month-to-month,Yes,Online Transfer,91.65,24
+3645,Female,18-30,No,9,Yes,None,,No,,,Month-to-month,No,Physical,19.05,16
+2069,Female,18-30,No,1,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,95.6,15
+2875,Male,30-45,No,22,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.1,15
+5016,Female,18-30,No,5,Yes,None,,No,,,Month-to-month,No,Auto-payment,19.85,28
+3837,Female,18-30,No,4,Yes,4G,Major User,No,Yes,Yes,One year,Yes,Online Transfer,105.65,17
+2300,Female,30-45,Yes,48,Yes,,Major User,Yes,No,No,One year,Yes,Auto-payment,103.25,22
+1553,Female,30-45,Yes,39,Yes,4G,No,No,Yes,Yes,Month-to-month,Yes,Auto-payment,81.5,7
+4800,Male,>60,No,1,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94,15
+4514,Female,18-30,No,28,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,80.6,19
+5153,Male,45-60,No,41,Yes,4G,Major User,No,No,No,Month-to-month,Yes,Online Transfer,94.55,17
+2144,Male,18-30,No,3,Yes,3G,No,No,Yes,No,Month-to-month,Yes,Physical,50.5,15
+3411,Male,45-60,No,53,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,101.9,17
+1170,Male,30-45,Yes,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,114,19
+5359,Female,>60,No,10,No,3G,No,,Yes,No,Month-to-month,Yes,Online Transfer,29.65,28
+6563,Male,30-45,Yes,15,Yes,,No,Yes,No,No,Month-to-month,Yes,Auto-payment,74.9,23
+5801,Male,45-60,No,34,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,75.55,3
+5430,Male,18-30,No,10,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,72.15,15
+4577,Female,45-60,No,62,Yes,4G,Major User,Yes,No,Yes,One year,Yes,Online Transfer,104.85,999
+780,Male,30-45,Yes,71,Yes,3G,Major User,No,Yes,No,Two year,Yes,Auto-payment,73.35,16
+707,Male,>60,No,27,Yes,,Major User,Yes,Yes,No,One year,Yes,Auto-payment,104.65,6
+3324,Female,18-30,No,1,Yes,4G,No,No,No,Yes,Month-to-month,No,Online Transfer,75.55,12
+6366,Female,30-45,No,64,Yes,3G,Sometimes,No,Yes,Yes,Two year,Yes,Physical,68.3,14
+896,Male,30-45,No,71,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,116.1,5
+6032,Male,45-60,No,68,Yes,4G,Major User,Yes,No,Yes,Month-to-month,Yes,Online Transfer,105.3,25
+3294,Female,30-45,Yes,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Physical,69.1,16
+6368,Male,>60,No,2,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,94,17
+5687,Male,18-30,No,43,Yes,4G,No,No,Yes,Yes,One year,Yes,Auto-payment,90.65,14
+2485,Female,18-30,No,14,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,80.45,25
+6402,Female,30-45,Yes,54,Yes,3G,No,Yes,No,Yes,Two year,Yes,Auto-payment,59.8,14
+2845,Female,18-30,No,11,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Online Transfer,94.2,14
+6116,Female,18-30,No,48,Yes,3G,Sometimes,Yes,Yes,Yes,One year,Yes,Auto-payment,73.85,4
+4153,Male,18-30,No,27,Yes,None,,No,,,One year,No,Physical,20.3,13
+1113,Female,30-45,No,37,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,78.95,29
+6926,Female,18-30,No,56,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,73.85,18
+2705,Female,30-45,No,72,Yes,None,,Yes,,,Two year,No,Auto-payment,25.65,17
+3026,Female,30-45,No,16,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.95,20
+3409,Female,45-60,No,70,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Online Transfer,113.65,15
+6321,Female,30-45,No,30,Yes,None,,No,,,Month-to-month,No,Auto-payment,19.65,28
+5486,Male,18-30,No,54,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,87.1,6
+6396,Female,45-60,No,36,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,91.95,19
+3491,Male,30-45,No,44,Yes,3G,Sometimes,No,Yes,Yes,One year,Yes,Online Transfer,70.95,9
+1424,Female,18-30,Yes,48,Yes,None,,No,,,One year,No,Physical,19.95,7
+419,Female,>60,No,1,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Auto-payment,75.3,22
+5923,Female,18-30,No,6,Yes,4G,Sometimes,No,Yes,Yes,Month-to-month,Yes,Online Transfer,89.25,9
+6529,Male,>60,No,2,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Physical,74.85,17
+6980,Male,>60,No,16,No,3G,Sometimes,,No,No,Month-to-month,Yes,Physical,39,26
+4495,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,70.1,26
+4242,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.75,2
+744,Female,18-30,No,5,Yes,3G,No,No,No,No,Month-to-month,Yes,Auto-payment,44.05,17
+4007,Male,30-45,No,55,Yes,None,,Yes,,,Two year,No,Auto-payment,25.7,9
+4020,Male,45-60,No,72,No,,Major User,,Yes,Yes,Two year,Yes,Auto-payment,64.95,14
+6235,Male,45-60,Yes,22,No,3G,Sometimes,,No,No,Month-to-month,No,Physical,40.05,15
+3352,Female,18-30,No,1,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Physical,85.45,25
+2574,Male,>60,No,39,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Auto-payment,95.65,20
+6266,Male,>60,No,33,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Auto-payment,83.85,26
+1070,Female,18-30,No,2,Yes,4G,No,No,No,No,Month-to-month,No,Auto-payment,69.75,18
+3365,Male,18-30,No,19,Yes,None,,No,,,Two year,No,Physical,19.65,9
+4488,Female,45-60,No,42,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,74.15,20
+3616,Female,45-60,No,69,Yes,4G,Sometimes,No,No,No,One year,No,Auto-payment,87.3,11
+397,Female,18-30,No,34,Yes,4G,No,No,No,No,Month-to-month,Yes,Auto-payment,73.95,27
+6466,Male,18-30,No,18,Yes,4G,No,Yes,No,No,Month-to-month,No,Physical,74.15,16
+920,Male,30-45,No,60,Yes,None,,Yes,,,One year,No,Auto-payment,24.15,8
+4299,Female,>60,No,29,Yes,3G,No,Yes,No,No,Month-to-month,Yes,Auto-payment,58.55,16
+5195,Male,18-30,No,72,Yes,3G,Sometimes,No,Yes,Yes,Two year,Yes,Auto-payment,75.1,6
+209,Male,30-45,No,64,Yes,4G,Major User,No,Yes,Yes,One year,Yes,Auto-payment,102.45,999
+4220,Male,30-45,Yes,55,Yes,None,,No,,,One year,No,Physical,19.5,13
+5734,Male,30-45,Yes,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Physical,89.4,8
+1258,Female,18-30,No,47,Yes,None,,No,,,Two year,No,Physical,20.15,7
+2332,Female,30-45,No,47,Yes,3G,Sometimes,No,No,Yes,One year,Yes,Auto-payment,66.05,17
+6162,Female,45-60,No,60,No,3G,Major User,,No,No,Two year,Yes,Auto-payment,49.45,10
+386,Female,45-60,No,55,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,85.45,19
+4002,Male,30-45,Yes,72,Yes,3G,Sometimes,Yes,Yes,Yes,Two year,Yes,Auto-payment,80.85,7
+1342,Female,18-30,No,8,Yes,None,,No,,,Two year,No,Physical,20,16
+2023,Female,45-60,No,5,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,81,19
+1842,Male,18-30,No,45,Yes,3G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,75.95,8
+5287,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Auto-payment,20.55,17
+193,Female,30-45,Yes,72,Yes,4G,Major User,Yes,No,Yes,Two year,No,Auto-payment,109.7,15
+1255,Female,18-30,No,2,No,,No,,Yes,No,Month-to-month,Yes,Online Transfer,30.9,25
+3861,Female,18-30,Yes,26,Yes,4G,Major User,No,Yes,Yes,Two year,Yes,Online Transfer,105.45,17
+3746,Female,30-45,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,68.95,21
+4960,Male,>60,No,50,Yes,,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.7,23
+2690,Male,45-60,Yes,8,Yes,,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,80.45,24
+5006,Female,18-30,No,15,Yes,,No,Yes,No,No,Month-to-month,Yes,Physical,55.7,21
+1968,Female,18-30,No,53,Yes,4G,Major User,No,No,Yes,One year,Yes,Physical,100.3,14
+2907,Male,30-45,No,20,Yes,,Major User,No,No,No,Month-to-month,Yes,Physical,89,18
+495,Male,18-30,No,22,No,3G,Sometimes,,No,Yes,One year,Yes,Auto-payment,43.75,28
+6040,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Physical,70.75,18
+1835,Female,30-45,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,45,9
+4063,Female,18-30,No,10,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Online Transfer,94.85,29
+793,Female,18-30,Yes,34,Yes,3G,Sometimes,No,Yes,Yes,Two year,No,Auto-payment,67.65,4
+6133,Male,18-30,No,2,No,3G,No,,No,No,Month-to-month,Yes,Auto-payment,24.9,6
+1035,Male,18-30,No,66,Yes,None,,Yes,,,Two year,No,Physical,25.1,11
+1902,Male,30-45,Yes,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,90.6,10
+5207,Female,45-60,No,24,No,,Sometimes,,No,Yes,Month-to-month,Yes,Auto-payment,40.65,23
+4885,Male,45-60,No,72,Yes,4G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,111.65,4
+886,Female,>60,No,7,Yes,4G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,84.35,6
+3823,Male,30-45,No,72,Yes,,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,78.85,6
+1998,Female,30-45,No,2,No,3G,Major User,,No,No,Month-to-month,No,Online Transfer,44.6,16
+499,Female,18-30,No,12,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,Yes,Auto-payment,99.7,16
+195,Female,30-45,No,20,Yes,4G,Sometimes,No,Yes,No,Month-to-month,Yes,Online Transfer,96.55,7
+6696,Male,18-30,No,5,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Online Transfer,96.55,4
+5924,Male,30-45,Yes,62,Yes,None,,No,,,Two year,No,Auto-payment,20.65,3
+4677,Male,30-45,No,10,Yes,4G,Major User,No,Yes,No,Month-to-month,Yes,Online Transfer,99.85,18
+888,Male,30-45,Yes,37,Yes,4G,Major User,No,No,No,One year,No,Auto-payment,91.2,9
+184,Female,18-30,No,13,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Online Transfer,79.25,22
+6226,Male,18-30,No,65,Yes,None,,Yes,,,Two year,No,Physical,25.75,4
+4558,Female,>60,No,27,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.25,21
+6866,Male,18-30,No,1,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,95.45,19
+4086,Female,30-45,No,72,Yes,3G,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,79.2,16
+6256,Female,18-30,No,1,No,3G,Sometimes,,No,No,Month-to-month,No,Physical,35.05,18
+1766,Female,30-45,Yes,27,Yes,None,,No,,,One year,Yes,Physical,20.55,13
+4646,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Physical,70.7,17
+3301,Female,>60,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.6,17
+2617,Female,18-30,No,1,Yes,None,,No,,,Month-to-month,Yes,Physical,19.6,16
+4845,Male,30-45,Yes,20,No,3G,No,,Yes,Yes,Two year,Yes,Auto-payment,39.4,7
+723,Male,18-30,No,3,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,45.35,25
+1025,Female,45-60,No,60,Yes,4G,Major User,No,Yes,Yes,Two year,Yes,Auto-payment,110,11
+4393,Female,30-45,No,21,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,86.5,22
+1544,Male,30-45,No,30,Yes,3G,No,No,No,Yes,Month-to-month,Yes,Physical,50,6
+2902,Female,>60,No,6,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,74.1,14
+487,Male,18-30,No,72,Yes,,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,88.6,6
+555,Female,30-45,Yes,56,Yes,3G,Sometimes,Yes,No,Yes,One year,Yes,Auto-payment,68.75,12
+5986,Male,>60,No,11,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Auto-payment,79.15,17
+890,Male,30-45,Yes,31,Yes,4G,No,Yes,Yes,Yes,Month-to-month,No,Online Transfer,89.3,3
+3203,Female,30-45,No,72,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Auto-payment,88.05,16
+585,Female,>60,No,1,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,85.7,17
+3571,Female,18-30,No,35,Yes,3G,Sometimes,No,No,Yes,Month-to-month,Yes,Online Transfer,62.1,4
+6491,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.2,17
+932,Male,30-45,No,72,Yes,None,,No,,,Two year,No,Auto-payment,19.3,14
+3735,Female,30-45,No,2,Yes,4G,Sometimes,Yes,No,No,Month-to-month,Yes,Online Transfer,84.05,8
+5458,Male,18-30,No,7,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,51,24
+1859,Male,18-30,No,52,Yes,4G,Sometimes,No,No,No,Month-to-month,Yes,Online Transfer,85.35,28
+2526,Male,18-30,No,1,Yes,None,,No,,,Month-to-month,No,Physical,19.4,16
+3271,Male,45-60,No,12,Yes,4G,Major User,Yes,No,No,Month-to-month,Yes,Online Transfer,101.35,20
+3310,Female,>60,No,1,Yes,4G,Sometimes,No,No,No,Month-to-month,No,Online Transfer,78.45,19
+2887,Male,18-30,No,1,Yes,3G,No,No,No,No,Month-to-month,Yes,Physical,45.05,999
+6272,Male,18-30,Yes,54,Yes,,No,No,Yes,Yes,One year,Yes,Online Transfer,61,3
+6599,Female,30-45,No,13,Yes,4G,Sometimes,Yes,No,Yes,Month-to-month,No,Online Transfer,94.1,28
+2000,Female,>60,No,9,Yes,,No,No,No,Yes,Month-to-month,No,Auto-payment,75.5,15
+4850,Female,18-30,No,54,Yes,4G,Major User,No,No,No,One year,Yes,Auto-payment,100.05,2
+1662,Male,18-30,No,5,Yes,,No,No,No,No,Month-to-month,Yes,Online Transfer,69.75,15
+2634,Male,30-45,No,10000,Yes,4G,Sometimes,No,Yes,No,Month-to-month,Yes,Online Transfer,84.8,16
+5772,Male,30-45,Yes,69,Yes,3G,Major User,Yes,Yes,Yes,Two year,Yes,Auto-payment,81.95,14
+5995,Male,30-45,Yes,72,Yes,4G,Major User,No,Yes,Yes,Two year,No,Auto-payment,111.95,12
+3371,Female,30-45,Yes,11,Yes,None,,No,,,Month-to-month,Yes,Physical,19.25,29
+372,Male,18-30,Yes,24,No,3G,No,,Yes,No,Two year,No,Physical,35.75,12
+6626,Male,45-60,No,6,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,95.75,29
+5020,Female,18-30,No,41,Yes,None,,No,,,Two year,Yes,Physical,19.85,16
+1744,Female,30-45,No,41,Yes,4G,Major User,No,No,Yes,One year,Yes,Auto-payment,104.45,13
+1171,Male,30-45,No,60,Yes,4G,Major User,No,No,No,One year,Yes,Online Transfer,94.4,20
+2946,Female,30-45,Yes,51,Yes,4G,No,Yes,Yes,No,Month-to-month,Yes,Online Transfer,80.75,8
+6683,Male,18-30,No,43,No,3G,Sometimes,,Yes,Yes,One year,No,Online Transfer,44.15,9
+5526,Male,30-45,Yes,51,Yes,None,,Yes,,,One year,Yes,Physical,23.95,19
+6230,Female,30-45,Yes,1,Yes,None,,No,,,Month-to-month,No,Physical,20.05,17
+1329,Female,30-45,No,72,Yes,None,,No,,,Two year,No,Auto-payment,19.4,8
+5927,Male,18-30,No,51,Yes,None,,Yes,,,Two year,No,Physical,24.75,19
+5823,Female,18-30,No,22,Yes,None,,No,,,Month-to-month,Yes,Physical,20.05,13
+4520,Male,30-45,Yes,1,Yes,None,,No,,,Month-to-month,No,Auto-payment,19.95,26
+1112,Female,>60,No,71,Yes,3G,Major User,Yes,Yes,Yes,Two year,No,Physical,89.85,14
+6313,Male,18-30,No,2,Yes,4G,Major User,No,No,Yes,Month-to-month,Yes,Online Transfer,95.85,18
+6546,Male,18-30,No,24,Yes,3G,No,No,No,No,Month-to-month,Yes,Online Transfer,51.15,17
+36,Male,18-30,No,5,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,69.7,25
+1418,Male,30-45,Yes,67,Yes,,Sometimes,Yes,No,No,Month-to-month,Yes,Auto-payment,89.55,19
+3135,Female,>60,No,38,Yes,4G,Major User,Yes,Yes,No,Month-to-month,Yes,Online Transfer,99.55,29
+3007,Female,>60,No,32,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,74.4,15
+893,Female,18-30,No,1,No,3G,No,,No,No,Month-to-month,No,Online Transfer,24.6,15
+6577,Male,30-45,No,70,Yes,3G,Sometimes,Yes,Yes,Yes,Two year,No,Auto-payment,72.95,18
+5148,Male,30-45,No,65,Yes,4G,Sometimes,Yes,No,Yes,Two year,Yes,Online Transfer,99.35,6
+5360,Male,30-45,Yes,5,Yes,4G,No,Yes,No,Yes,Month-to-month,Yes,Online Transfer,84.5,27
+3146,Female,30-45,Yes,5,Yes,4G,Major User,No,Yes,No,Month-to-month,Yes,Physical,99.15,19
+1928,Female,30-45,Yes,31,Yes,None,,No,,,Month-to-month,Yes,Physical,19.55,24
+1055,Female,18-30,No,36,Yes,None,,No,,,One year,No,Physical,19.55,3
+3174,Male,30-45,No,58,No,,Major User,,No,No,One year,Yes,Auto-payment,45,16
+4043,Male,45-60,No,59,No,3G,Major User,,Yes,Yes,Two year,Yes,Auto-payment,64.05,5
+2939,Male,>60,No,12,Yes,4G,No,No,Yes,Yes,Month-to-month,Yes,Physical,2000,15
+1039,Male,30-45,No,38,Yes,4G,No,No,No,No,Month-to-month,Yes,Online Transfer,79.45,29
+5983,Female,18-30,No,22,No,3G,Major User,,No,No,Month-to-month,Yes,Online Transfer,50.35,8
+6881,Female,30-45,Yes,32,No,3G,No,,No,No,Month-to-month,Yes,Online Transfer,35.15,17
+4633,Female,30-45,Yes,72,Yes,None,,Yes,,,Two year,Yes,Auto-payment,24.05,13
+1251,Female,18-30,No,1,Yes,4G,No,No,No,No,Month-to-month,No,Online Transfer,75.8,18
+4532,Female,18-30,No,15,Yes,4G,No,Yes,No,No,Month-to-month,Yes,Online Transfer,79.75,21
+6110,Female,30-45,No,19,Yes,3G,Sometimes,No,No,No,Month-to-month,Yes,Physical,59.8,6
+1493,Male,18-30,No,11,Yes,4G,No,No,No,Yes,Month-to-month,Yes,Auto-payment,79.5,13
+145,Female,30-45,Yes,65,Yes,4G,Sometimes,Yes,Yes,No,Two year,Yes,Auto-payment,99.05,19
+4952,Male,18-30,No,2,Yes,4G,Major User,No,No,No,Month-to-month,No,Online Transfer,2000,7
+5730,Male,18-30,No,67,Yes,None,,No,,,Two year,Yes,Physical,19.8,5
